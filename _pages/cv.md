@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: <center>CV
+title: <center>Jiazhen Lei's CV
 permalink: /cv/
 author_profile: true
 redirect_from:
