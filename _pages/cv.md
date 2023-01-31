@@ -27,7 +27,7 @@ Honors and Awards
 * 2021\. First-Class Scholarship of Northwestern Polytechnical University(西北工业大学一等奖学金), top 5%
 * 2021\. Outstanding Student of Northwestern Polytechnical University(西北工业大学优秀大学生)
 * 2020\. National Scholarship for Undergraduates
-* 2020\. First-Class Scholarship of Northwestern Polytechnical University， top 5%
+* 2020\. First-Class Scholarship of Northwestern Polytechnical University, top 5%
 * 2020\. Outstanding Student of Northwestern Polytechnical University
 
 Projects
