@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: <center>CV
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,49 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Aug.2019-now . B.S. in School of Electronics And Information, Northwestern Polytechnical University
 
-Work experience
+Honors and Awards
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022\. National Scholarship for Undergraduates
+* 2022\. BaoGang Scholarship(1/5 of the whole school)
+* 2022\. Outstanding Student Model of Northwestern Polytechnical University (The highest honor for undergraduates, with only 10 students in the university)
+* 2021\. National Scholarship for Undergraduates
+* 2021\. Thanks for the Chinese Modern Scientist Scholarship(1/12 of the whole school)
+* 2021\. National Champion of China Robotics Competition Dance Robot Project
+* 2021\. First-Class Scholarship of Northwestern Polytechnical University(top 5%)
+* 2021\. Outstanding Student of Northwestern Polytechnical University
+* 2020\. National Scholarship for Undergraduates
+* 2020\. First-Class Scholarship of Northwestern Polytechnical University(top 5%)
+* 2020\. Outstanding Student of Northwestern Polytechnical University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Projects
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* [Dance Robot](https://github.com/Jiazhen-Lei/Dance-Robot)
+* [2048_master](https://github.com/Jiazhen-Lei/2048_master)
+* [Three_Wheel_Car](https://github.com/Jiazhen-Lei/Three_Wheel_Car)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
