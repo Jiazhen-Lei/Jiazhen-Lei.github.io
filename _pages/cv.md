@@ -13,7 +13,7 @@ redirect_from:
 Education
 ======
 
-* Aug. 2019 - Jul. 2023 . B.S. at the Department of Electronics And Information, Northwestern Polytechnical University
+* Aug. 2019 - Jul. 2023 . B.S. at the School of Electronics And Information, Northwestern Polytechnical University
   * GPA ：3.902/4.1
   * Rank ：1/98
 * Sept. 2023 - now . Ph.D. at the Department of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University

@@ -9,9 +9,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am now a fourth year undergraduate majoring in [Electronic Information Engineering](http://dianzi.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), Xi'an, China. From September 2023, I will start my Ph.D. degree in [IIOT](https://iiot.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) under the supervision of Professor [Xiaohua Tian](https://iiot.sjtu.edu.cn/#/xtian/).
+Hi, I am a first-year Ph.D. student at [the Department of Electronic Information and Electrical Engineering](https://www.seiee.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), Shanghai, China. I received my B.S. degree from [the School of Electronics and Information](https://dianzi.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/index.htm), Xi’an, China, in 2023. I joined Research Center of Intelligent Internet of Things ([IIoT](https://iiot.sjtu.edu.cn/)) in 2022 and have been supervised by Professor [Xiaohua Tian](https://iiot.sjtu.edu.cn/#/xtian/) since then.
 
-My research interests are Backscatter Communcation, and Software Defined Radio(SDR).
+My research interests are Semantic Communication Systems.
 
 ***
 
