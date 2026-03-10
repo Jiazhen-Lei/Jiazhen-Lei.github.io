@@ -1,24 +1,31 @@
 # main links links
 main:
-  - title: "CV"
-    url: /cv/
+  - title: "About Me"
+    url: "/#about-me"
 
-#  - title: "Publications"
-#    url: /publications/
+  # - title: "News"
+  #   url: "/#-news"
 
-#  - title: "Talks"
-#    url: /talks/    
+  # - title: "Publications"
+  #   url: "/#-publications"
 
-#  - title: "Teaching"
-#    url: /teaching/    
-    
-#  - title: "Portfolio"
-#    url: /portfolio/
-        
-#  - title: "Blog Posts"
-#    url: /year-archive/
-    
+  - title: "Projects"
+    url: "/#-projects"
 
-    
-#  - title: "Guide"
-#    url: /markdown/
+  - title: "Internships"
+    url: "/#-internships"
+
+  - title: "Teaching"
+    url: "/#-teaching"
+
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
+
+  # - title: "Educations"
+  #   url: "/#-educations"
+
+  # - title: "Invited Talks"
+  #   url: "/#-invited-talks"
+
+  - title: "Blog"
+    url: "https://blog.csdn.net/qq_46041930?spm=1000.2115.3001.5343"

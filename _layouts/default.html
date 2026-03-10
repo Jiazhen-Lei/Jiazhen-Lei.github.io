@@ -2,30 +2,34 @@
 layout: compress
 ---
 
-{% include base_path %}
-
-<!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+<!DOCTYPE html>
+<html lang="en" class="no-js">
   <head>
-    {% include head.html %}
-    {% include head/custom.html %}
+    <meta
+      name="google-site-verification"
+      content="47Arxw_1b4LoUYoxsQoVs9MAtZ7TthPQbci_lJ1zuJQ"
+    />
+    <meta name="msvalidate.01" content="5062548BAAE97E54ED37576D45B489F9" />
+    {% include head.html %} {% include head/custom.html %}
   </head>
 
   <body>
+    {% include browser-upgrade.html %} {% include masthead.html %}
 
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
+    <div id="main" role="main">
+      {% include sidebar.html %}
 
-    {{ content }}
-
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
+      <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+        {% if page.title %}<meta
+          itemprop="headline"
+          content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}"
+        />{% endif %}
+        <div class="page__inner-wrap">
+          <section class="page__content" itemprop="text">{{ content }}</section>
+        </div>
+      </article>
     </div>
 
     {% include scripts.html %}
-
   </body>
 </html>

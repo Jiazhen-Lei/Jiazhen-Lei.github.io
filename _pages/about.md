@@ -1,21 +1,148 @@
 ---
-layout: archive
 permalink: /
-title: <center>Jiazhen Lei's Homepage
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Hi, I am a first-year Ph.D. student at [the Department of Electronic Information and Electrical Engineering](https://www.seiee.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), Shanghai, China. I received my B.S. degree from [the School of Electronics and Information](https://dianzi.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/index.htm), Xi’an, China, in 2023. I joined Research Center of Intelligent Internet of Things ([IIoT](https://iiot.sjtu.edu.cn/)) in 2022 and have been supervised by Professor [Xiaohua Tian](https://iiot.sjtu.edu.cn/#/xtian/) since then.
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-My research interests are hybrid communication systems, low-power ad-hoc networks and applications.
+<span class='anchor' id='about-me'></span>
 
-***
+Hi, I'm currently third-year Ph.D. candidate at [Xtian Group](https://xtian.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), where I have the honor to be supervised by [Prof. Xiaohua Tian](https://xtian.sjtu.edu.cn/).
 
-***
+I received my bachelor’s degree from [the School of Electronics and Information](https://dianzi.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/index.htm), Xi’an, China, in 2023.
 
-## News
-* Demo
+My previous research primarily focused on the design of **Hybrid Active-Passive Communication Systems** for **Ambient IoT**. Currently, I am exploring the application of **LLM-powered Agentic Systems** to tackle domain-specific challenges in the radio field. Moving forward, I aspire to delve deeply into next-generation wireless embodied AI and its practical applications.
+
+<!-- I am looking for collaborations and am also open to **interested undergraduate interns**. Please feel free to contact me! -->
+
+<!-- My research interest includes neural machine translation and computer vision.  -->
+
+<!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
+
+<!-- # 🔥 News
+
+- _2022.02_: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- _2022.02_: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+
+# 📝 Publications
+
+- <span class='paper-badge'>TMC 2026</span> **Tiga: Autonomous Hybrid Active-Passive Communication for Ambient IoT System**<br>
+  _<u><b>Jiazhen Lei</b></u>, Bingbing Wang, Fengyuan Zhu, Tianze Cao, Wenhui Li, Linling Zhong, Xiaohua Tian_<br>
+  _IEEE Transactions on Mobile Computing_, 2026 (CCF-A)<br>
+  <!-- <span class='paper-asset'><a href="https://arxiv.org/abs/2406.03511">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2406.03511">PDF</a></span> <span class='paper-asset'><a href="https://github.com/JeremyChou28/MagiNet">Code</a></span> -->
+
+- <span class='paper-prebadge'>SIGCOMM 2026</span> **Enabling Agile Ambient IoT Networking via a Parameterized Hybrid Radio**<br>
+  _<u><b>Jiazhen Lei</b></u>, Fengyuan Zhu, Tianze Cao, Linling Zhong, Wenhui Li, Zeming Yang, Jinyang Sun, Yibin Deng, Xiaohua Tian_<br>
+  _The ACM Special Interest Group on Data Communication (SIGCOMM)_, 2026 (CCF-A)(In Submission)<br>
+  <!-- <span class='paper-asset'><a href="https://arxiv.org/abs/2406.03511">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2406.03511">PDF</a></span> <span class='paper-asset'><a href="https://github.com/JeremyChou28/MagiNet">Code</a></span> -->  
+
+- <span class='paper-badge'>MobiCom 2026</span> **ORNet: OFDMA-Enabled mmWave Radar ISAC Networks**<br>
+  _Zeming Yang, Linling Zhong, Wenhui Li, Yinbin Deng, <u><b>Jiazhen Lei</b></u>, Fengyuan Zhu, Bingbing Wang, Haiming Jin, Xiaohua Tian_<br>
+  _The International Conference on Mobile Computing and Networking_, 2026 (CCF-A)<br>
+  <!-- <span class='paper-asset'><a href="https://arxiv.org/abs/2406.03511">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2406.03511">PDF</a></span> <span class='paper-asset'><a href="https://github.com/JeremyChou28/MagiNet">Code</a></span> -->
+
+- <span class='paper-badge'>MobiCom 2025</span> **Wook: Enabling High-Throughput Wi-Fi Downlink with Ultra-Low Power**<br>
+  _Bingbing Wang, Zeming Yang, Wenhui Li, Linling Zhong, Fengyuan Zhu, <u><b>Jiazhen Lei</b></u>, Meng Jin, Xiaohua Tian_<br>
+  _The International Conference on Mobile Computing and Networking_, 2025 (CCF-A)<br>
+  <!-- <span class='paper-asset'><a href="https://arxiv.org/abs/2406.03511">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2406.03511">PDF</a></span> <span class='paper-asset'><a href="https://github.com/JeremyChou28/MagiNet">Code</a></span> -->
+
+  - <span class='paper-badge'>TON 2025</span> **Constellation Mapping for Frequency-Agile OFDM Backscatter Network**<br>
+  _Bingbing Wang, Wenhui Li, Fengyuan Zhu, <u><b>Jiazhen Lei</b></u>, Zeming Yang, Linling Zhong, Meng Jin, Xiaohua Tian_<br>
+  _IEEE Transactions on Networking_, 2025 (CCF-A)<br>
+  <!-- <span class='paper-asset'><a href="https://arxiv.org/abs/2406.03511">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2406.03511">PDF</a></span> <span class='paper-asset'><a href="https://github.com/JeremyChou28/MagiNet">Code</a></span> -->
+
+# 🚀 Projects
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">beta</div><img src='images/geoknowledgefusion.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Knowledge Fusion: An Advanced Platform for Efficient Multimodal Data Integration from Geoscience Literature](https://knowledgefusion.acemap.info/#/index)
+
+- DDE Knowledge Fusion is a one-stop multimodal knowledge fusion system for geoscientific literature, supporting the table extraction and table fusion from geoscience literature, as well as the extraction of knowledge tuples from text to construct knowledge graphs. We have completed the fusion of global Sm-Nd isotope tabular data and the construction of a global knowledge graph of debris flow. This project is supported by [Deep-time Digital Earth (DDE) International Big Science Program](https://deep-time.org/).
+
+- <span class='paper-badge'>Remote Sensing 2024</span> **GeoKnowledgeFusion: A Platform for Multimodal Data Compilation from Geoscience Literature** (SCI Q2)<br>
+  <span class='paper-asset'><a href="https://www.mdpi.com/2072-4292/16/9/1484">Page</a></span> <span class='paper-asset'><a href="https://www.mdpi.com/2072-4292/16/9/1484/pdf">PDF</a></span> <span class='paper-asset'><a href="https://github.com/sjtugzx/GeoKnowledgeFusion">Code</a></span>
+
+- <span class='paper-badge'>EGU 2024</span> **Accelerating Geoscience Research: An Advanced Platform for Efficient Multimodal Data Integration from Geoscience Literature** (清华 A 类)<br>
+  <span class='paper-asset'><a href="https://meetingorganizer.copernicus.org/EGU24/EGU24-13715.html">Page</a></span> <span class='paper-asset'><a href="https://jeremychou28.github.io/files/EGU2024-poster.pdf">Poster</a></span>
+
+</div>
+</div> -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">beta</div><img src='images/zero.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[International SparkLink Alliance](https://www.isla.org/)
+
+-HUAWEI.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">beta</div><img src='images/lion.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Dance Robot](https://github.com/Jiazhen-Lei/Dance-Robot)
+
+-2021 China Robotics Competition Dance Robot Project.
+
+</div>
+</div>
+
+<!-- # 💻 Internships
+
+- _2020.06 - 2020.09_, Hardware Engineer Intern, [Xilinx](https://xupsh.github.io/camp/), China.
+- _2021.09 - 2021.12_, MindSpore Excellent Developer, [Huawei MindSpore](https://www.mindspore.cn/), China. [\[Certificate\]](https://www.mindspore.cn/community/developer) -->
+
+# 📖 Teaching
+- Teaching Assistant, Design and Analysis of Computer Communication Networks (ICE6303H), Shanghai Jiao Tong University. (Spring 2026)
+- Teaching Assistant, Engineering Practice and Technological Innovation I (EE1503), Shanghai Jiao Tong University. (Spring 2026)
+- Teaching Assistant, Principles of Wireless Communications and Mobile Networks (ICE3307), Shanghai Jiao Tong University. (Spring 2025)
+
+# 📑 Academic Services
+
+- Conference Reviewer: IEEE Globecom'2024
+- Journal Reviewer: TMC(CCF-A), TON(CCF-A)
+
+# 🎖 Honors and Awards
+
+- _2020.12_, _2021.12_, _2022.12_ National Scholarship in China **(本科生国家奖学金)**[\[news\]](https://mp.weixin.qq.com/s/I5s_5t0hVbq4TXnVCmUjUg)
+- _2023.7_ Outstanding Graduate of Shaanxi Province **(陕西省优秀毕业生)** 
+- _2022.12_ Outstanding Student Model **(优秀大学生标兵)** & Special-Class Scholarship **(特等奖学金)**[\[news\]](https://mp.weixin.qq.com/s/dVAA46lXCFqPnobHr9lcmQ)
+- _2022.12_ Baosteel Scholarship (宝钢奖学金)
+- _2021.12_ Thanks for the Chinese Modern Scientist Scholarship (感恩近现代科学家奖学金)
+- _2021.12_, _2020.12_ Outstanding Student (优秀大学生) & First-Class Scholarship （一等奖学金）
+- _2021.6_ National Champion of China Robotics Competition Dance Robot Project (中国机器人大赛舞蹈机器人项目冠军)
+
+<!-- # 📖 Educations
+
+
+- _2019.06 - 2022.04 (now)_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- _2015.09 - 2019.06_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+
+<!-- # 💬 Invited Talks
+
+- _2021.06_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- _2021.03_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. \| [\[video\]](https://github.com/) -->
+
+# 📫 Contact
+
+Location: Room 203, Building 1, No. 800 Dongchuan Road, Minhang District, Shanghai, China, 200240
+
+Email: leijiazhen@gmail.com
+
+<div>
+
+<a href='https://clustrmaps.com/site/1bxrr'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=600&t=tt&d=0M8kPkKxBLYWYMx2sN62-gal633opUGy56vm6VlWAz8&co=2d78ad&ct=ffffff'/></a>
+
+</div>
