@@ -130,10 +130,10 @@ _IEEE Transactions on Networking_, 2025 (CCF-A)<br>
 - _2019.09 - 2023.06_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - _2013.09 - 2019.06_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/sjtu.png' alt="SJTU" width="100%" style="max-width:150px;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/sjtu.png' alt="SJTU" width="100%" style="max-width:120px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Degree:** Ph.D  
+**Degree:** Ph.D.  
 **Period:** 2023.09 - 2028.06 (now)  
 **Major:** Information and Communication Engineering  
 **GPA:** 3.76/4.0
@@ -141,7 +141,7 @@ _IEEE Transactions on Networking_, 2025 (CCF-A)<br>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/nwpu.jpg' alt="NWPU" width="100%" style="max-width:150px;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/nwpu.jpg' alt="NWPU" width="100%" style="max-width:120px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Degree:** Bachelor  
@@ -152,7 +152,7 @@ _IEEE Transactions on Networking_, 2025 (CCF-A)<br>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/sdfz.jpg' alt="SDFZ" width="100%" style="max-width:150px;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/sdfz.jpg' alt="SDFZ" width="100%" style="max-width:120px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Degree:** Junior/Senior high school student  
