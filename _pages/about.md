@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, I'm currently third-year Ph.D. candidate at [Xtian Group](https://xtian.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), where I have the honor to be supervised by [Prof. Xiaohua Tian](https://xtian.sjtu.edu.cn/).
 
-I received my bachelor’s degree from [the School of Electronics and Information](https://dianzi.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/index.htm), Xi’an, China, in 2023.
+I received my bachelor’s degree from [the School of Electronics and Information](https://dianzi.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/index.htm), Xi’an, China, in 2023. (Rank: 1/98).
 
 My previous research primarily focused on the design of **Hybrid Active-Passive Communication Systems** for **Ambient IoT**. Currently, I am exploring the application of **LLM-powered Agentic Systems** to tackle domain-specific challenges in the radio field. Moving forward, I aspire to delve deeply into next-generation wireless embodied AI and its practical applications.
 
