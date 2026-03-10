@@ -167,6 +167,17 @@ _IEEE Transactions on Networking_, 2025 (CCF-A)<br>
 - _2021.06_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - _2021.03_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. \| [\[video\]](https://github.com/) -->
 
+# 🏃 Life
+
+Beyond research, I am deeply passionate about the outdoors. To date, I have finished three half-marathons and completed five long-distance cycling rides of over 100km. I hope to keep this adventurous spirit alive as I continue to explore the world.
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; margin-top: 1em;">
+  <img src="images/life1.jpg" alt="life1" style="width: 24%; object-fit: cover; border-radius: 5px;">
+  <img src="images/life2.jpg" alt="life2" style="width: 24%; object-fit: cover; border-radius: 5px;">
+  <img src="images/life4.jpg" alt="life4" style="width: 24%; object-fit: cover; border-radius: 5px;">
+  <img src="images/life5.jpg" alt="life5" style="width: 24%; object-fit: cover; border-radius: 5px;">
+</div>
+
 # 📫 Contact
 
 Location: Room 203, Building 1, No. 800 Dongchuan Road, Minhang District, Shanghai, China, 200240
