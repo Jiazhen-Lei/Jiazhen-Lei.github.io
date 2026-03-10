@@ -56,10 +56,10 @@ My previous research primarily focused on the design of **Hybrid Active-Passive 
   _The International Conference on Mobile Computing and Networking_, 2025 (CCF-A)<br>
   <!-- <span class='paper-asset'><a href="https://arxiv.org/abs/2406.03511">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2406.03511">PDF</a></span> <span class='paper-asset'><a href="https://github.com/JeremyChou28/MagiNet">Code</a></span> -->
 
-  - <span class='paper-badge'>TON 2025</span> **Constellation Mapping for Frequency-Agile OFDM Backscatter Network**<br>
-  _Bingbing Wang, Wenhui Li, Fengyuan Zhu, <u><b>Jiazhen Lei</b></u>, Zeming Yang, Linling Zhong, Meng Jin, Xiaohua Tian_<br>
-  _IEEE Transactions on Networking_, 2025 (CCF-A)<br>
-  <!-- <span class='paper-asset'><a href="https://arxiv.org/abs/2406.03511">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2406.03511">PDF</a></span> <span class='paper-asset'><a href="https://github.com/JeremyChou28/MagiNet">Code</a></span> -->
+- <span class='paper-badge'>TON 2025</span> **Constellation Mapping for Frequency-Agile OFDM Backscatter Network**<br>
+_Bingbing Wang, Wenhui Li, Fengyuan Zhu, <u><b>Jiazhen Lei</b></u>, Zeming Yang, Linling Zhong, Meng Jin, Xiaohua Tian_<br>
+_IEEE Transactions on Networking_, 2025 (CCF-A)<br>
+<!-- <span class='paper-asset'><a href="https://arxiv.org/abs/2406.03511">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2406.03511">PDF</a></span> <span class='paper-asset'><a href="https://github.com/JeremyChou28/MagiNet">Code</a></span> -->
 
 # 🚀 Projects
 
@@ -99,10 +99,9 @@ My previous research primarily focused on the design of **Hybrid Active-Passive 
 </div>
 </div>
 
-<!-- # 💻 Internships
+# 💻 Internships
 
-- _2020.06 - 2020.09_, Hardware Engineer Intern, [Xilinx](https://xupsh.github.io/camp/), China.
-- _2021.09 - 2021.12_, MindSpore Excellent Developer, [Huawei MindSpore](https://www.mindspore.cn/), China. [\[Certificate\]](https://www.mindspore.cn/community/developer) -->
+- None
 
 # 📖 Teaching
 - Teaching Assistant, Design and Analysis of Computer Communication Networks (ICE6303H), Shanghai Jiao Tong University. (Spring 2026)
@@ -143,6 +142,6 @@ Email: leijiazhen@gmail.com
 
 <div>
 
-<a href='https://clustrmaps.com/site/1bxrr'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=600&t=tt&d=0M8kPkKxBLYWYMx2sN62-gal633opUGy56vm6VlWAz8&co=2d78ad&ct=ffffff'/></a>
+<a href="https://mapmyvisitors.com/web/1c33j"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=JCE-8ZN8M6iy9wBFlwAFuA1CRZQ81zE-kNM4CFQEl5g&cl=ffffff" /></a>
 
 </div>
