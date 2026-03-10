@@ -84,7 +84,7 @@ _IEEE Transactions on Networking_, 2025 (CCF-A)<br>
 
 [International SparkLink Alliance](https://www.isla.org/)
 
--HUAWEI.
+- We designed a novel backscatter communication prototype system based on concurrent OFDMA. The system integrates comprehensive modules for energy harvesting, synchronization, wake-up receiver, and backscattering, achieving concurrent transmission for 128 tags. Our ultimate objective is to develop a robust alternative to RFID and integrate this technology into the International SparkLink Alliance standard system.
 
 </div>
 </div>
@@ -94,7 +94,7 @@ _IEEE Transactions on Networking_, 2025 (CCF-A)<br>
 
 [Dance Robot](https://github.com/Jiazhen-Lei/Dance-Robot)
 
--2021 China Robotics Competition Dance Robot Project.
+- We independently designed and built two transformable dance robots from scratch. One was a bipedal humanoid robot inspired by a lion, and the other was a quadrupedal heteromorphic robot designed in the shape of a jellyfish. We showcased these platforms at the 2021 China Robot Competition and proudly won the National Champion in the Dance Robot category.
 
 </div>
 </div>
@@ -170,6 +170,10 @@ _IEEE Transactions on Networking_, 2025 (CCF-A)<br>
 # 🏃 Life
 
 Beyond research, I am deeply passionate about the outdoors. To date, I have finished three half-marathons and completed five long-distance cycling rides of over 100km. I hope to keep this adventurous spirit alive as I continue to explore the world.
+
+- 2024 Taicang Sino-German Half Marathon, _Half Marathon Category_, 2024.11.17
+- 2025 Nantong Marathon, _Half Marathon Category_, 2025.3.23
+- 2025 Daishan Headlands Half Marathon, _Half Marathon Category_, 2025.3.30
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; margin-top: 1em;">
   <img src="images/life1.jpg" alt="life1" style="width: 24%; object-fit: cover; border-radius: 5px;">
