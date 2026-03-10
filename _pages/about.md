@@ -184,8 +184,6 @@ Beyond research, I am deeply passionate about the outdoors. To date, I have fini
 
 # 📫 Contact
 
-Location: Room 203, Building 1, No. 800 Dongchuan Road, Minhang District, Shanghai, China, 200240
-
 Email: leijiazhen@gmail.com
 
 <div>
