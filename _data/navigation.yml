@@ -6,8 +6,8 @@ main:
   # - title: "News"
   #   url: "/#-news"
 
-  # - title: "Publications"
-  #   url: "/#-publications"
+  - title: "Publications"
+    url: "/#-publications"
 
   - title: "Projects"
     url: "/#-projects"
@@ -27,5 +27,5 @@ main:
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
 
-  - title: "Blog"
-    url: "https://blog.csdn.net/qq_46041930?spm=1000.2115.3001.5343"
+  # - title: "Blog"
+  #   url: "https://blog.csdn.net/qq_46041930?spm=1000.2115.3001.5343"
