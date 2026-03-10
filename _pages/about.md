@@ -41,9 +41,9 @@ My previous research primarily focused on the design of **Hybrid Active-Passive 
   _IEEE Transactions on Mobile Computing_, 2026 (CCF-A)<br>
   <!-- <span class='paper-asset'><a href="https://arxiv.org/abs/2406.03511">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2406.03511">PDF</a></span> <span class='paper-asset'><a href="https://github.com/JeremyChou28/MagiNet">Code</a></span> -->
 
-- <span class='paper-prebadge'>SIGCOMM 2026</span> **Enabling Agile Ambient IoT Networking via a Parameterized Hybrid Radio**<br>
+- <span class='paper-prebadge'>In Submission</span> **Enabling Agile Ambient IoT Networking via a Parameterized Hybrid Radio**<br>
   _<u><b>Jiazhen Lei</b></u>, Fengyuan Zhu, Tianze Cao, Linling Zhong, Wenhui Li, Zeming Yang, Jinyang Sun, Yibin Deng, Xiaohua Tian_<br>
-  _The ACM Special Interest Group on Data Communication (SIGCOMM)_, 2026 (CCF-A)(In Submission)<br>
+  <!-- _The ACM Special Interest Group on Data Communication (SIGCOMM)_, 2026 (CCF-A)(In Submission)<br> -->
   <!-- <span class='paper-asset'><a href="https://arxiv.org/abs/2406.03511">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2406.03511">PDF</a></span> <span class='paper-asset'><a href="https://github.com/JeremyChou28/MagiNet">Code</a></span> -->  
 
 - <span class='paper-badge'>MobiCom 2026</span> **ORNet: OFDMA-Enabled mmWave Radar ISAC Networks**<br>
@@ -123,11 +123,44 @@ _IEEE Transactions on Networking_, 2025 (CCF-A)<br>
 - _2021.12_, _2020.12_ Outstanding Student (优秀大学生) & First-Class Scholarship （一等奖学金）
 - _2021.6_ National Champion of China Robotics Competition Dance Robot Project (中国机器人大赛舞蹈机器人项目冠军)
 
-<!-- # 📖 Educations
+# 📖 Educations
 
 
-- _2019.06 - 2022.04 (now)_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- _2015.09 - 2019.06_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+<!-- - _2023.06 - 2028.06 (now)_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- _2019.09 - 2023.06_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- _2013.09 - 2019.06_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/sjtu.png' alt="SJTU" width="100%" style="max-width:150px;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Degree:** Ph.D  
+**Period:** 2023.09 - 2028.06 (now)  
+**Major:** Information and Communication Engineering  
+**GPA:** 3.76/4.0
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/nwpu.jpg' alt="NWPU" width="100%" style="max-width:150px;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Degree:** Bachelor  
+**Period:** 2019.09 - 2023.06  
+**Major:** Electronic Information Engineering  
+**GPA:** 3.91/4.1 (Rank: 1/98)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/sdfz.jpg' alt="SDFZ" width="100%" style="max-width:150px;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Degree:** Junior/Senior high school student  
+**Period:** 2013.09 - 2019.06  
+**Major:** Science Track
+
+</div>
+</div>
 
 <!-- # 💬 Invited Talks
 
