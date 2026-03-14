@@ -39,7 +39,8 @@ My previous research primarily focused on the design of **Hybrid Active-Passive 
 - <span class='paper-badge'>TMC 2026</span> **Tiga: Autonomous Hybrid Active-Passive Communication for Ambient IoT System**<br>
   _<u><b>Jiazhen Lei</b></u>, Bingbing Wang, Fengyuan Zhu, Tianze Cao, Wenhui Li, Linling Zhong, Xiaohua Tian_<br>
   _IEEE Transactions on Mobile Computing_, 2026 (CCF-A)<br>
-  <!-- <span class='paper-asset'><a href="https://arxiv.org/abs/2406.03511">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2406.03511">PDF</a></span> <span class='paper-asset'><a href="https://github.com/JeremyChou28/MagiNet">Code</a></span> -->
+  <span class='paper-asset'><a href="https://ieeexplore.ieee.org/abstract/document/11433082">Page</a></span> <span class='paper-asset'><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11433082">PDF</a></span> 
+  <!-- <span class='paper-asset'><a href="https://github.com/JeremyChou28/MagiNet">Code</a></span> -->
 
 - <span class='paper-prebadge'>In Submission</span> **Enabling Agile Ambient IoT Networking via a Parameterized Hybrid Radio**<br>
   _<u><b>Jiazhen Lei</b></u>, Fengyuan Zhu, Tianze Cao, Linling Zhong, Wenhui Li, Zeming Yang, Jinyang Sun, Yibin Deng, Xiaohua Tian_<br>
