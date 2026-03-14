@@ -55,12 +55,12 @@ My previous research primarily focused on the design of **Hybrid Active-Passive 
 - <span class='paper-badge'>MobiCom 2025</span> **Wook: Enabling High-Throughput Wi-Fi Downlink with Ultra-Low Power**<br>
   _Bingbing Wang, Zeming Yang, Wenhui Li, Linling Zhong, Fengyuan Zhu, <u><b>Jiazhen Lei</b></u>, Meng Jin, Xiaohua Tian_<br>
   _The International Conference on Mobile Computing and Networking_, 2025 (CCF-A)<br>
-  <!-- <span class='paper-asset'><a href="https://arxiv.org/abs/2406.03511">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2406.03511">PDF</a></span> <span class='paper-asset'><a href="https://github.com/JeremyChou28/MagiNet">Code</a></span> -->
+ <span class='paper-asset'><a href="https://dl.acm.org/doi/abs/10.1145/3680207.3723475">Page</a></span> <span class='paper-asset'><a href="https://dl.acm.org/doi/pdf/10.1145/3680207.3723475">PDF</a></span> 
 
 - <span class='paper-badge'>TON 2025</span> **Constellation Mapping for Frequency-Agile OFDM Backscatter Network**<br>
 _Bingbing Wang, Wenhui Li, Fengyuan Zhu, <u><b>Jiazhen Lei</b></u>, Zeming Yang, Linling Zhong, Meng Jin, Xiaohua Tian_<br>
 _IEEE Transactions on Networking_, 2025 (CCF-A)<br>
-<!-- <span class='paper-asset'><a href="https://arxiv.org/abs/2406.03511">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2406.03511">PDF</a></span> <span class='paper-asset'><a href="https://github.com/JeremyChou28/MagiNet">Code</a></span> -->
+<span class='paper-asset'><a href="https://ieeexplore.ieee.org/document/11024204">Page</a></span> <span class='paper-asset'><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11024204">PDF</a></span> 
 
 # 🚀 Projects
 
