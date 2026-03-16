@@ -191,7 +191,9 @@ Beyond research, I am deeply passionate about the outdoors. To date, I have fini
 Email: leijiazhen@gmail.com
 
 <div>
+<!-- 
+<a href="https://mapmyvisitors.com/web/1c33j"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=JCE-8ZN8M6iy9wBFlwAFuA1CRZQ81zE-kNM4CFQEl5g&cl=ffffff" /></a> -->
 
-<a href="https://mapmyvisitors.com/web/1c33j"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=JCE-8ZN8M6iy9wBFlwAFuA1CRZQ81zE-kNM4CFQEl5g&cl=ffffff" /></a>
+<a href="https://clustrmaps.com/site/1c9gq"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=mVixI3k1IAYm-HCwb2F6c6keRF5jbL60zT2cXLNMuqs&cl=ffffff" /></a>
 
 </div>
