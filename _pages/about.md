@@ -91,7 +91,7 @@ _IEEE Transactions on Networking_, 2025 (CCF-A)<br>
 
 [Dance Robot](https://github.com/Jiazhen-Lei/Dance-Robot)
 
-- We independently designed and built two transformable dance robots from scratch. One was a bipedal humanoid robot inspired by a lion, and the other was a quadrupedal heteromorphic robot designed in the shape of a jellyfish. We showcased these platforms at the 2021 China Robot Competition and proudly won the National Champion in the Dance Robot category. [\[bilibili\]](https://www.bilibili.com/video/BV1MYcQz1EET/)
+- We independently design and build two transformable dance robots from scratch. One is a bipedal humanoid robot inspired by a lion, and the other is a quadrupedal heteromorphic robot designed in the shape of a jellyfish. We showcase these platforms at the 2021 China Robot Competition and proudly won the National Champion in the Dance Robot category. [\[bilibili\]](https://www.bilibili.com/video/BV1MYcQz1EET/)
 
 </div>
 </div>
@@ -112,13 +112,13 @@ _IEEE Transactions on Networking_, 2025 (CCF-A)<br>
 
 # 🎖 Honors and Awards
 
-- _2020.12_, _2021.12_, _2022.12_ National Scholarship in China **(本科生国家奖学金)**[\[news\]](https://mp.weixin.qq.com/s/I5s_5t0hVbq4TXnVCmUjUg)
-- _2023.7_ Outstanding Graduate of Shaanxi Province **(陕西省优秀毕业生)** 
-- _2022.12_ Outstanding Student Model **(优秀大学生标兵)** & Special-Class Scholarship **(特等奖学金)**[\[news\]](https://mp.weixin.qq.com/s/dVAA46lXCFqPnobHr9lcmQ)
-- _2022.12_ Baosteel Scholarship (宝钢奖学金)
-- _2021.12_ Thanks for the Chinese Modern Scientist Scholarship (感恩近现代科学家奖学金)
-- _2021.12_, _2020.12_ Outstanding Student (优秀大学生) & First-Class Scholarship （一等奖学金）
-- _2021.6_ National Champion of China Robotics Competition Dance Robot Project (中国机器人大赛舞蹈机器人项目冠军)
+- _2020.12_, _2021.12_, _2022.12_ National Scholarship in China [\[news\]](https://mp.weixin.qq.com/s/I5s_5t0hVbq4TXnVCmUjUg)
+- _2023.7_ Outstanding Graduate of Shaanxi Province 
+- _2022.12_ Outstanding Student Model & Special-Class Scholarship [\[news\]](https://mp.weixin.qq.com/s/dVAA46lXCFqPnobHr9lcmQ)
+- _2022.12_ Baosteel Scholarship
+- _2021.12_ Thanks for the Chinese Modern Scientist Scholarship
+- _2021.12_, _2020.12_ Outstanding Student & First-Class Scholarship
+- _2021.6_ National Champion of China Robotics Competition Dance Robot Project
 
 # 📖 Educations
 
