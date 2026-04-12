@@ -42,10 +42,14 @@ My previous research primarily focused on the design of **Hybrid Active-Passive 
   <span class='paper-asset'><a href="https://ieeexplore.ieee.org/abstract/document/11433082">Page</a></span> <span class='paper-asset'><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11433082">PDF</a></span> 
   <!-- <span class='paper-asset'><a href="https://github.com/JeremyChou28/MagiNet">Code</a></span> -->
 
-- <span class='paper-prebadge'>In Submission</span> **Enabling Agile Ambient IoT Networking via a Parameterized Hybrid Radio**<br>
-  _<u><b>Jiazhen Lei</b></u>, Fengyuan Zhu, Tianze Cao, Linling Zhong, Wenhui Li, Zeming Yang, Jinyang Sun, Yibin Deng, Xiaohua Tian_<br>
+<!-- - <span class='paper-prebadge'>In Submission</span> **Enabling Agile Ambient IoT Networking via a Parameterized Hybrid Radio**<br>
+  _<u><b>Jiazhen Lei</b></u>, Fengyuan Zhu, Tianze Cao, Linling Zhong, Wenhui Li, Zeming Yang, Jinyang Sun, Yibin Deng, Xiaohua Tian_<br> -->
   <!-- _The ACM Special Interest Group on Data Communication (SIGCOMM)_, 2026 (CCF-A)(In Submission)<br> -->
   <!-- <span class='paper-asset'><a href="https://arxiv.org/abs/2406.03511">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2406.03511">PDF</a></span> <span class='paper-asset'><a href="https://github.com/JeremyChou28/MagiNet">Code</a></span> -->  
+
+- <span class='paper-badge'>TMC 2026</span> **Towards Beamform Charging without Chicken-or-egg Dilemma**<br>
+  _Linling Zhong, Tao Qiang, Yuxin Sha, Zeming Yang, <u><b>Jiazhen Lei</b></u>, Wenhui Li, Fengyuan Zhu, Jinyang Sun, Bingbing Wang, Xiaohua Tian_<br>
+  _IEEE Transactions on Mobile Computing_, 2026 (CCF-A)<br>
 
 - <span class='paper-badge'>MobiCom 2026</span> **ORNet: OFDMA-Enabled mmWave Radar ISAC Networks**<br>
   _Zeming Yang, Linling Zhong, Wenhui Li, Yinbin Deng, <u><b>Jiazhen Lei</b></u>, Fengyuan Zhu, Bingbing Wang, Haiming Jin, Xiaohua Tian_<br>
@@ -64,28 +68,20 @@ _IEEE Transactions on Networking_, 2025 (CCF-A)<br>
 
 # 🚀 Projects
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">beta</div><img src='images/geoknowledgefusion.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Knowledge Fusion: An Advanced Platform for Efficient Multimodal Data Integration from Geoscience Literature](https://knowledgefusion.acemap.info/#/index)
-
-- DDE Knowledge Fusion is a one-stop multimodal knowledge fusion system for geoscientific literature, supporting the table extraction and table fusion from geoscience literature, as well as the extraction of knowledge tuples from text to construct knowledge graphs. We have completed the fusion of global Sm-Nd isotope tabular data and the construction of a global knowledge graph of debris flow. This project is supported by [Deep-time Digital Earth (DDE) International Big Science Program](https://deep-time.org/).
-
-- <span class='paper-badge'>Remote Sensing 2024</span> **GeoKnowledgeFusion: A Platform for Multimodal Data Compilation from Geoscience Literature** (SCI Q2)<br>
-  <span class='paper-asset'><a href="https://www.mdpi.com/2072-4292/16/9/1484">Page</a></span> <span class='paper-asset'><a href="https://www.mdpi.com/2072-4292/16/9/1484/pdf">PDF</a></span> <span class='paper-asset'><a href="https://github.com/sjtugzx/GeoKnowledgeFusion">Code</a></span>
-
-- <span class='paper-badge'>EGU 2024</span> **Accelerating Geoscience Research: An Advanced Platform for Efficient Multimodal Data Integration from Geoscience Literature** (清华 A 类)<br>
-  <span class='paper-asset'><a href="https://meetingorganizer.copernicus.org/EGU24/EGU24-13715.html">Page</a></span> <span class='paper-asset'><a href="https://jeremychou28.github.io/files/EGU2024-poster.pdf">Poster</a></span>
-
-</div>
-</div> -->
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">beta</div><img src='images/zero.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [International SparkLink Alliance](https://www.isla.org/)
 
 - We designed a novel backscatter communication prototype system based on concurrent OFDMA. The system integrates comprehensive modules for energy harvesting, synchronization, wake-up receiver, and backscattering, achieving concurrent transmission for 128 tags. Our ultimate objective is to develop a robust alternative to RFID and integrate this technology into the International SparkLink Alliance standard system.
+
+- The physical prototypes and artifacts related to this work are exhibited at the Science and Technology Achievement Exhibition Hall of Shanghai Jiao Tong University (Wenbo Building, Minhang Campus)
+
+<!-- - <span class='paper-badge'>Remote Sensing 2024</span> **GeoKnowledgeFusion: A Platform for Multimodal Data Compilation from Geoscience Literature** (SCI Q2)<br>
+  <span class='paper-asset'><a href="https://www.mdpi.com/2072-4292/16/9/1484">Page</a></span> <span class='paper-asset'><a href="https://www.mdpi.com/2072-4292/16/9/1484/pdf">PDF</a></span> <span class='paper-asset'><a href="https://github.com/sjtugzx/GeoKnowledgeFusion">Code</a></span>
+
+- <span class='paper-badge'>EGU 2024</span> **Accelerating Geoscience Research: An Advanced Platform for Efficient Multimodal Data Integration from Geoscience Literature** (清华 A 类)<br>
+  <span class='paper-asset'><a href="https://meetingorganizer.copernicus.org/EGU24/EGU24-13715.html">Page</a></span> <span class='paper-asset'><a href="https://jeremychou28.github.io/files/EGU2024-poster.pdf">Poster</a></span> -->
 
 </div>
 </div>
