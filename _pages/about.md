@@ -180,6 +180,7 @@ _IEEE Transactions on Networking_, 2025 (CCF-A)<br>
 
 Beyond research, I am deeply passionate about the outdoors. To date, I have finished four half-marathons and completed five long-distance cycling rides of over 100km. I hope to keep this adventurous spirit alive as I continue to explore the world.
 
+- 2026 SPARTAN Shanghai, _Racing_， 2026.4.25
 - 2026 Bank of JianSu Nanjing Half Marathon, _Half Marathon Category_, 2026.3.15 **(PB 2:04'12", Congratulations!)**
 - 2025 Daishan Headlands Half Marathon, _Half Marathon Category_, 2025.3.30
 - 2025 Nantong Marathon, _Half Marathon Category_, 2025.3.23
@@ -189,9 +190,9 @@ Beyond research, I am deeply passionate about the outdoors. To date, I have fini
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; margin-top: 1em;">
   <img src="images/life1.jpg" alt="life1" style="width: 19%; object-fit: cover; border-radius: 5px;">
   <img src="images/life2.jpg" alt="life2" style="width: 19%; object-fit: cover; border-radius: 5px;">
+  <img src="images/life3.jpg" alt="life3" style="width: 19%; object-fit: cover; border-radius: 5px;">
   <img src="images/life4.jpg" alt="life4" style="width: 19%; object-fit: cover; border-radius: 5px;">
   <img src="images/life5.jpg" alt="life5" style="width: 19%; object-fit: cover; border-radius: 5px;">
-  <img src="images/life6.jpg" alt="life6" style="width: 19%; object-fit: cover; border-radius: 5px;">
 </div>
 
 # 📫 Contact
