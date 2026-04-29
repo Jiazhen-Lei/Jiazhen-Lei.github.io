@@ -142,7 +142,7 @@ _IEEE Transactions on Networking_, 2025 (CCF-A)<br>
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/sjtu.png' alt="SJTU" width="100%" style="max-width:120px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Shanghai Jiao Tong University**
+**Shanghai Jiao Tong University**  
 **Degree:** Ph.D.  
 **Period:** 2023.09 - 2028.06 (now)  
 **Major:** Information and Communication Engineering  
@@ -154,7 +154,7 @@ _IEEE Transactions on Networking_, 2025 (CCF-A)<br>
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/nwpu.jpg' alt="NWPU" width="100%" style="max-width:120px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Northwestern Polytechnical University**
+**Northwestern Polytechnical University**    
 **Degree:** Bachelor  
 **Period:** 2019.09 - 2023.06  
 **Major:** Electronic Information Engineering  
@@ -166,7 +166,7 @@ _IEEE Transactions on Networking_, 2025 (CCF-A)<br>
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/sdfz.jpg' alt="SDFZ" width="100%" style="max-width:120px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**The High School Affiliated to Shaanxi Normal University**
+**The High School Affiliated to Shaanxi Normal University**  
 **Degree:** Junior/Senior high school student  
 **Period:** 2013.09 - 2019.06  
 **Major:** Science Track
