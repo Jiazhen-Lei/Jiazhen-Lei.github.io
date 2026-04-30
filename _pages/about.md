@@ -23,6 +23,8 @@ I received my bachelor’s degree from [the School of Electronics and Informatio
 
 My previous research primarily focused on the design of **Hybrid Active-Passive Communication Systems** for **Ambient IoT**. Currently, I am exploring the application of **LLM-powered Agentic Systems** to tackle domain-specific challenges in the radio field. Moving forward, I aspire to delve deeply into next-generation wireless embodied AI and its practical applications.
 
+I was successfully selected for the 2026 Tencent Rhino-Bird Elite Talent Program (2026腾讯犀牛鸟精英人才计划) and will start studying at Tencent IEG in May 2026.
+
 <!-- I am looking for collaborations and am also open to **interested undergraduate interns**. Please feel free to contact me! -->
 
 <!-- My research interest includes neural machine translation and computer vision.  -->
@@ -110,7 +112,7 @@ _IEEE Transactions on Networking_, 2025 (CCF-A)<br>
 
 # 💻 Internships
 
-- None
+- _2026.05 - now_, Agent Intern, Tencent IEG, 2026 Tencent Rhino-Bird Elite Training Program (入选2026腾讯犀牛鸟精英人才计划)
 
 # 📖 Teaching
 - Teaching Assistant, Design and Analysis of Computer Communication Networks (ICE6303H), Shanghai Jiao Tong University. (Spring 2026)
