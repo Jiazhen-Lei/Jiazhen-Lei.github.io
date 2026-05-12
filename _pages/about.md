@@ -59,10 +59,12 @@ I was successfully selected for the 2026 Tencent Rhino-Bird Elite Talent Program
 - <span class='paper-badge'>TMC 2026</span> **Hi-MAC: An Intelligent MAC for Heterogeneous Wireless Network**<br>
   _Wenhui Li, Yibin Deng, Fengyuan Zhu, <u><b>Jiazhen Lei</b></u>, Linling Zhong, Zeming Yang, Bingbing Wang, Xiaohua Tian_<br>
   _IEEE Transactions on Mobile Computing_, 2026 (CCF-A)<br>
+  <span class='paper-asset'><a href="https://ieeexplore.ieee.org/abstract/document/11491897">Page</a></span> <span class='paper-asset'><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11491897">PDF</a></span> 
 
 - <span class='paper-badge'>TMC 2026</span> **Towards Beamform Charging without Chicken-or-egg Dilemma**<br>
   _Linling Zhong, Tao Qiang, Yuxin Sha, Zeming Yang, <u><b>Jiazhen Lei</b></u>, Wenhui Li, Fengyuan Zhu, Jinyang Sun, Bingbing Wang, Xiaohua Tian_<br>
   _IEEE Transactions on Mobile Computing_, 2026 (CCF-A)<br>
+  <span class='paper-asset'><a href="https://ieeexplore.ieee.org/abstract/document/11481656">Page</a></span> <span class='paper-asset'><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11481656">PDF</a></span> 
 
 - <span class='paper-badge'>TON 2025</span> **Constellation Mapping for Frequency-Agile OFDM Backscatter Network**<br>
 _Bingbing Wang, Wenhui Li, Fengyuan Zhu, <u><b>Jiazhen Lei</b></u>, Zeming Yang, Linling Zhong, Meng Jin, Xiaohua Tian_<br>
