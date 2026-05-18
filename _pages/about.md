@@ -89,8 +89,9 @@ _IEEE Transactions on Networking_, 2025 (CCF-A)<br>
 
 [International SparkLink Alliance](https://www.isla.org/)
 
-- We designed a novel backscatter communication prototype system based on concurrent OFDMA. The system integrates comprehensive modules for energy harvesting, synchronization, wake-up receiver, and backscattering, achieving concurrent transmission for 128 tags. Our ultimate objective is to develop a robust alternative to RFID and integrate this technology into the International SparkLink Alliance standard system.
-
+<!-- - We designed a novel backscatter communication prototype system based on concurrent OFDMA. The system integrates comprehensive modules for energy harvesting, synchronization, wake-up receiver, and backscattering, achieving concurrent transmission for 128 tags. Our ultimate objective is to develop a robust alternative to RFID and integrate this technology into the International SparkLink Alliance standard system.
+ -->
+- Our ultimate objective is to develop a robust alternative to RFID and integrate this technology into the International SparkLink Alliance standard system.
 - The physical prototypes and artifacts related to this work are exhibited at the Science and Technology Achievement Exhibition Hall of Shanghai Jiao Tong University (Wenbo Building, Minhang Campus)
 
 <!-- - <span class='paper-badge'>Remote Sensing 2024</span> **GeoKnowledgeFusion: A Platform for Multimodal Data Compilation from Geoscience Literature** (SCI Q2)<br>
@@ -187,20 +188,40 @@ _IEEE Transactions on Networking_, 2025 (CCF-A)<br>
 
 Beyond research, I am deeply passionate about the outdoors. To date, I have finished four half-marathons and completed five long-distance cycling rides of over 100km. I hope to keep this adventurous spirit alive as I continue to explore the world.
 
-- 2026 SPARTAN Shanghai, _Racing_，2026.4.25
+- 2026 HYROX Shanghai, _MEN OPEN_, 2026.5.16 **(PB 1:57'19", Congratulations!)**
+- 2026 SPARTAN Shanghai, _5KM Racing_，2026.4.25
 - 2026 Bank of JianSu Nanjing Half Marathon, _Half Marathon Category_, 2026.3.15 **(PB 2:04'12", Congratulations!)**
 - 2025 Daishan Headlands Half Marathon, _Half Marathon Category_, 2025.3.30
 - 2025 Nantong Marathon, _Half Marathon Category_, 2025.3.23
 - 2024 Taicang Sino-German Half Marathon, _Half Marathon Category_, 2024.11.17
 - 2022 Qinling Mountains, _Cycling to the North-South Watershed_, 2022.5.29 [\[bilibili\]](https://www.bilibili.com/video/BV1Ra411j73S/)
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; margin-top: 1em;">
-  <img src="images/life1.jpg" alt="life1" style="width: 19%; object-fit: cover; border-radius: 5px;">
-  <img src="images/life2.jpg" alt="life2" style="width: 19%; object-fit: cover; border-radius: 5px;">
-  <img src="images/life3.jpg" alt="life3" style="width: 19%; object-fit: cover; border-radius: 5px;">
-  <img src="images/life4.jpg" alt="life4" style="width: 19%; object-fit: cover; border-radius: 5px;">
-  <img src="images/life5.jpg" alt="life5" style="width: 19%; object-fit: cover; border-radius: 5px;">
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-top: 1em;">
+  <img src="images/life3.jpg" alt="life1" style="width: 100%; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 5px;">
+  <img src="images/life4.jpg" alt="life2" style="width: 100%; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 5px;">
+  <img src="images/life5.jpg" alt="life3" style="width: 100%; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 5px;">
+  <img src="images/hyrox1.jpg" alt="life4" style="width: 100%; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 5px;">
 </div>
+
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-top: 1em;">
+  <img src="images/life1.jpg" alt="life5" style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 5px;">
+  <img src="images/life2.jpg" alt="life6" style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 5px;">
+  <img src="images/hyrox2.jpg" alt="life7" style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 5px;">
+</div>
+
+
+<!-- <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; margin-top: 1em;">
+  <img src="images/life3.jpg" alt="life1" style="width: 24%; object-fit: cover; border-radius: 5px;">
+  <img src="images/life4.jpg" alt="life2" style="width: 24%; object-fit: cover; border-radius: 5px;">
+  <img src="images/life5.jpg" alt="life3" style="width: 24%; object-fit: cover; border-radius: 5px;">
+  <img src="images/hyrox1.jpg" alt="life4" style="width: 24%; object-fit: cover; border-radius: 5px;">
+</div>
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; margin-top: 1em;">
+  <img src="images/life1.jpg" alt="life1" style="width: 33%; object-fit: cover; border-radius: 5px;">
+  <img src="images/life2.jpg" alt="life2" style="width: 33%; object-fit: cover; border-radius: 5px;">
+  <img src="images/hyrox2.jpg" alt="life3" style="width: 33%; object-fit: cover; border-radius: 5px;">
+</div> -->
 
 # 📫 Contact
 
