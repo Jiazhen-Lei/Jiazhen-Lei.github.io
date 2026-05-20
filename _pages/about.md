@@ -46,7 +46,7 @@ I was successfully selected for the 2026 Tencent Rhino-Bird Elite Talent Program
   <!-- <span class='paper-asset'><a href="https://github.com/JeremyChou28/MagiNet">Code</a></span> -->
 
 - <span class='paper-prebadge'>arXiv</span> **Enabling Agile Ambient IoT Networking via a Parameterized Hybrid Radio**<br>
-  _<u><b>Jiazhen Lei</b></u>, Fengyuan Zhu, Tianze Cao, Yuxin Sha, Linling Zhong, Wenhui Li, Bingbing Wang, Zeming Yang, Jinyang Sun, Yibin Deng, Xiaohua Tian_<br> -->
+  _<u><b>Jiazhen Lei</b></u>, Fengyuan Zhu, Tianze Cao, Yuxin Sha, Linling Zhong, Wenhui Li, Bingbing Wang, Zeming Yang, Jinyang Sun, Yibin Deng, Xiaohua Tian_<br>
   <!-- _IEEE/ACM Transcations on Networking_, 2026 (CCF-A)(In Submission)<br> -->
   <span class='paper-asset'><a href="https://arxiv.org/abs/2605.18314">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2605.18314">PDF</a></span> <span class='paper-asset'><a href="https://github.com/Jiazhen-Lei/Janus">Code</a></span>  
 
@@ -84,7 +84,7 @@ _IEEE Transactions on Networking_, 2025 (CCF-A)<br>
 
 ## arXiv
 - <span class='paper-prebadge'>arXiv</span> **Enabling Agile Ambient IoT Networking via a Parameterized Hybrid Radio**<br>
-  _<u><b>Jiazhen Lei</b></u>, Fengyuan Zhu, Tianze Cao, Yuxin Sha, Linling Zhong, Wenhui Li, Bingbing Wang, Zeming Yang, Jinyang Sun, Yibin Deng, Xiaohua Tian_<br> -->
+  _<u><b>Jiazhen Lei</b></u>, Fengyuan Zhu, Tianze Cao, Yuxin Sha, Linling Zhong, Wenhui Li, Bingbing Wang, Zeming Yang, Jinyang Sun, Yibin Deng, Xiaohua Tian_<br>
   <!-- _IEEE/ACM Transcations on Networking_, 2026 (CCF-A)(In Submission)<br> -->
   <span class='paper-asset'><a href="https://arxiv.org/abs/2605.18314">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2605.18314">PDF</a></span> <span class='paper-asset'><a href="https://github.com/Jiazhen-Lei/Janus">Code</a></span>  
 
