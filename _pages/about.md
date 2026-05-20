@@ -45,10 +45,10 @@ I was successfully selected for the 2026 Tencent Rhino-Bird Elite Talent Program
   <span class='paper-asset'><a href="https://ieeexplore.ieee.org/abstract/document/11433082">Page</a></span> <span class='paper-asset'><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11433082">PDF</a></span> 
   <!-- <span class='paper-asset'><a href="https://github.com/JeremyChou28/MagiNet">Code</a></span> -->
 
-<!-- - <span class='paper-prebadge'>In Submission</span> **Enabling Agile Ambient IoT Networking via a Parameterized Hybrid Radio**<br>
-  _<u><b>Jiazhen Lei</b></u>, Fengyuan Zhu, Tianze Cao, Linling Zhong, Wenhui Li, Zeming Yang, Jinyang Sun, Yibin Deng, Xiaohua Tian_<br> -->
-  <!-- _The ACM Special Interest Group on Data Communication (SIGCOMM)_, 2026 (CCF-A)(In Submission)<br> -->
-  <!-- <span class='paper-asset'><a href="https://arxiv.org/abs/2406.03511">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2406.03511">PDF</a></span> <span class='paper-asset'><a href="https://github.com/JeremyChou28/MagiNet">Code</a></span> -->  
+- <span class='paper-prebadge'>arXiv</span> **Enabling Agile Ambient IoT Networking via a Parameterized Hybrid Radio**<br>
+  _<u><b>Jiazhen Lei</b></u>, Fengyuan Zhu, Tianze Cao, Yuxin Sha, Linling Zhong, Wenhui Li, Bingbing Wang, Zeming Yang, Jinyang Sun, Yibin Deng, Xiaohua Tian_<br> -->
+  <!-- _IEEE/ACM Transcations on Networking_, 2026 (CCF-A)(In Submission)<br> -->
+  <span class='paper-asset'><a href="https://arxiv.org/abs/2605.18314">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2605.18314">PDF</a></span> <span class='paper-asset'><a href="https://github.com/Jiazhen-Lei/Janus">Code</a></span>  
 
 ## Journal
 - <span class='paper-badge'>TMC 2026</span> **Tiga: Autonomous Hybrid Active-Passive Communication for Ambient IoT System**<br>
@@ -81,6 +81,13 @@ _IEEE Transactions on Networking_, 2025 (CCF-A)<br>
   _Bingbing Wang, Zeming Yang, Wenhui Li, Linling Zhong, Fengyuan Zhu, <u><b>Jiazhen Lei</b></u>, Meng Jin, Xiaohua Tian_<br>
   _The International Conference on Mobile Computing and Networking_, 2025 (CCF-A)<br>
  <span class='paper-asset'><a href="https://dl.acm.org/doi/abs/10.1145/3680207.3723475">Page</a></span> <span class='paper-asset'><a href="https://dl.acm.org/doi/pdf/10.1145/3680207.3723475">PDF</a></span> 
+
+## arXiv
+- <span class='paper-prebadge'>arXiv</span> **Enabling Agile Ambient IoT Networking via a Parameterized Hybrid Radio**<br>
+  _<u><b>Jiazhen Lei</b></u>, Fengyuan Zhu, Tianze Cao, Yuxin Sha, Linling Zhong, Wenhui Li, Bingbing Wang, Zeming Yang, Jinyang Sun, Yibin Deng, Xiaohua Tian_<br> -->
+  <!-- _IEEE/ACM Transcations on Networking_, 2026 (CCF-A)(In Submission)<br> -->
+  <span class='paper-asset'><a href="https://arxiv.org/abs/2605.18314">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2605.18314">PDF</a></span> <span class='paper-asset'><a href="https://github.com/Jiazhen-Lei/Janus">Code</a></span>  
+
 
 # 🚀 Projects
 
