@@ -23,7 +23,7 @@ I received my bachelor’s degree from [the School of Electronics and Informatio
 
 My previous research primarily focused on the design of **Hybrid Active-Passive Communication Systems** for **Ambient IoT**. Currently, I am exploring the application of **LLM-powered Agentic Systems** to tackle domain-specific challenges in the radio field. Moving forward, I aspire to delve deeply into next-generation wireless embodied AI and its practical applications.
 
-I was successfully selected for the 2026 Tencent Rhino-Bird Elite Talent Program (2026腾讯犀牛鸟精英人才计划) and will start studying at Tencent IEG in May 2026.
+I was successfully selected for the 2026 Tencent Rhino-bird Research Elite Program (2026腾讯犀牛鸟精英人才计划) and will start studying at Tencent IEG in May 2026.
 
 <!-- I am looking for collaborations and am also open to **interested undergraduate interns**. Please feel free to contact me! -->
 
@@ -50,9 +50,9 @@ I was successfully selected for the 2026 Tencent Rhino-Bird Elite Talent Program
   <!-- _IEEE/ACM Transcations on Networking_, 2026 (CCF-A)(In Submission)<br> -->
   <span class='paper-asset'><a href="https://arxiv.org/abs/2605.18314">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2605.18314">PDF</a></span> <span class='paper-asset'><a href="https://github.com/Jiazhen-Lei/Janus">Code</a></span>  
 
-- <span class='paper-prebadge'>arXiv</span> **RadioMaster: Multi-Agent System for Autonomous Radio Signal Generation**<br>
+<!-- - <span class='paper-prebadge'>arXiv</span> **RadioMaster: Multi-Agent System for Autonomous Radio Signal Generation**<br>
 _<u><b>Jiazhen Lei</b></u>, Tianze Cao, Yuxin Sha, Sihan Wang, Bingbing Wang, Fengyuan Zhu, Zeming Yang, Xiaohua Tian_<br>
-<span class='paper-asset'><a href="https://arxiv.org/abs/2606.01862">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2606.01862">PDF</a></span>
+<span class='paper-asset'><a href="https://arxiv.org/abs/2606.01862">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2606.01862">PDF</a></span> -->
 
 ## Journal
 - <span class='paper-badge'>TMC 2026</span> **Tiga: Autonomous Hybrid Active-Passive Communication for Ambient IoT System**<br>
@@ -130,7 +130,7 @@ _<u><b>Jiazhen Lei</b></u>, Tianze Cao, Yuxin Sha, Sihan Wang, Bingbing Wang, Fe
 
 # 💻 Internships
 
-- _2026.05 - now_, Agent Intern, Tencent IEG, 2026 Tencent Rhino-Bird Elite Training Program (入选2026腾讯犀牛鸟精英人才计划)
+- _2026.05 - now_, Agent Intern, Tencent IEG, 2026 Tencent Rhino-bird Research Elite Program (入选2026腾讯犀牛鸟精英人才计划)
 
 # 📖 Teaching
 - Teaching Assistant, Design and Analysis of Computer Communication Networks (ICE6303H), Shanghai Jiao Tong University. (Spring 2026)
@@ -244,7 +244,7 @@ Email: leijiazhen@gmail.com
 
 <div>
 
-<a href='https://clustrmaps.com/site/1c9gq'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=600&t=tt&d=mVixI3k1IAYm-HCwb2F6c6keRF5jbL60zT2cXLNMuqs&co=2d78ad&ct=ffffff'/></a>
-
+<!-- <a href='https://clustrmaps.com/site/1c9gq'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=600&t=tt&d=mVixI3k1IAYm-HCwb2F6c6keRF5jbL60zT2cXLNMuqs&co=2d78ad&ct=ffffff'/></a> -->
+<a href="https://info.flagcounter.com/3xtv"><img src="https://s01.flagcounter.com/map/3xtv/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
 </div>
