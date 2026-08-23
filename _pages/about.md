@@ -23,7 +23,7 @@ I received my bachelor’s degree from [the School of Electronics and Informatio
 
 My previous research primarily focused on the design of **Hybrid Active-Passive Communication Systems** for **Ambient IoT**. Currently, I am exploring the application of **LLM-powered Agentic Systems** to tackle domain-specific challenges in the radio field. Moving forward, I aspire to delve deeply into next-generation wireless embodied AI and its practical applications.
 
-I was successfully selected for the 2026 Tencent Rhino-bird Research Elite Program (2026腾讯犀牛鸟精英人才计划) and will start studying at Tencent IEG in May 2026.
+I was successfully selected for the 2026 Tencent Rhino-bird Research Elite Program (2026腾讯犀牛鸟精英人才计划) and will start studying at Tencent IEG in May 2026, where I work closely with [Wenjin Wang](https://scholar.google.co.cr/citations?user=doeQD9kAAAAJ&hl=nl) on game narrative agents and foundation models.
 
 <!-- I am looking for collaborations and am also open to **interested undergraduate interns**. Please feel free to contact me! -->
 
