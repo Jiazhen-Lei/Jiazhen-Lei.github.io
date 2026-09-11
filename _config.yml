@@ -28,7 +28,7 @@ author:
   location: "Shanghai, China"
   employer:
   pubmed:
-  # googlescholar: "https://scholar.google.com/citations?user=3_wIk0EAAAAJ&hl=zh-CN"
+  googlescholar: "https://scholar.google.com/citations?user=aG72zboAAAAJ&hl=zh-CN"
   email: "leijiazhen@gmail.com"
   researchgate: # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri:
@@ -45,7 +45,7 @@ author:
   impactstory: # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
   linkedin: 
-  dblp: 
+  dblp: https://dblp.org/pid/419/2519.html 
   orcid: https://orcid.org/0009-0002-7324-2150
   pinterest:
   soundcloud:

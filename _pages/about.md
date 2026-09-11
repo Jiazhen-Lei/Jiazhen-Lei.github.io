@@ -31,10 +31,38 @@ I was successfully selected for the 2026 Tencent Rhino-bird Research Elite Progr
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-<!-- # 🔥 News
+# 🔥 News
 
-- _2022.02_: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- _2022.02_: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+- _2026.05_: Selected for the 2026 Tencent Rhino-bird Research Elite Program (2026腾讯犀牛鸟精英人才计划) and will intern at Tencent IEG, working on game narrative agents and foundation models.
+- _2026.03_: One first-author paper accepted by <span class='paper-badge'>TMC 2026</span> **Tiga: Autonomous Hybrid Active-Passive Communication for Ambient IoT System**.
+
+# 🔍 Research Interests
+
+<div class="interest-grid">
+  <div class="interest-card interest-card--purple">
+    <h3>Hybrid Active-Passive Communication</h3>
+    <p>Designing hybrid radios and networking stacks for Ambient IoT systems.</p>
+    <p class="interest-works">
+      <a href="https://ieeexplore.ieee.org/abstract/document/11433082">Tiga <span class="paper-badge">TMC</span></a>
+      <a href="https://arxiv.org/abs/2605.18314">Janus <span class="paper-prebadge">arXiv</span></a>
+    </p>
+  </div>
+  <div class="interest-card interest-card--blue">
+    <h3>Physical AI Agent</h3>
+    <p>Building agents that act in the physical radio world.</p>
+    <p class="interest-works">
+      <a href="https://arxiv.org/abs/2606.01862">RadioMaster <span class="paper-prebadge">arXiv</span></a>
+      <span>DeepRadio <span class="paper-prebadge">In Submission</span></span>
+    </p>
+  </div>
+  <div class="interest-card interest-card--teal">
+    <h3>Game Narrative</h3>
+    <p>Exploring narrative agents and foundation models for games.</p>
+    <p class="interest-works">
+      <span>NarrativeSteward <span class="paper-prebadge">In Submission</span></span>
+    </p>
+  </div>
+</div>
 
 # 📝 Publications
 
@@ -50,9 +78,12 @@ I was successfully selected for the 2026 Tencent Rhino-bird Research Elite Progr
   <!-- _IEEE/ACM Transcations on Networking_, 2026 (CCF-A)(In Submission)<br> -->
   <span class='paper-asset'><a href="https://arxiv.org/abs/2605.18314">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2605.18314">PDF</a></span> <span class='paper-asset'><a href="https://github.com/Jiazhen-Lei/Janus">Code</a></span>  
 
-<!-- - <span class='paper-prebadge'>arXiv</span> **RadioMaster: Multi-Agent System for Autonomous Radio Signal Generation**<br>
-_<u><b>Jiazhen Lei</b></u>, Tianze Cao, Yuxin Sha, Sihan Wang, Bingbing Wang, Fengyuan Zhu, Zeming Yang, Xiaohua Tian_<br>
-<span class='paper-asset'><a href="https://arxiv.org/abs/2606.01862">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2606.01862">PDF</a></span> -->
+- <span class='paper-prebadge'>arXiv</span> **RadioMaster: Multi-Agent System for Autonomous Radio Signal Generation**<br>
+_<u><b>Jiazhen Lei</b></u>, Yuxin Sha, Tianze Cao, Sihan Wang, Bingbing Wang, Zeming Yang, Fengyuan Zhu, Xiaohua Tian_<br>
+<span class='paper-asset'><a href="https://arxiv.org/abs/2606.01862">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2606.01862">PDF</a></span>
+
+- <span class='paper-prebadge'>In Submission</span> **DeepRadio: A Human–Agent Workspace for Physical Radio Development**<br>
+_<u><b>Jiazhen Lei</b></u>, Yuxin Sha, Sihan Wang, Wenhui Li, Jinyang Sun, Chengyu Lu, Xiaohua Tian_<br>
 
 ## Journal
 - <span class='paper-badge'>TMC 2026</span> **Tiga: Autonomous Hybrid Active-Passive Communication for Ambient IoT System**<br>
@@ -92,10 +123,15 @@ _IEEE Transactions on Networking_, 2025 (CCF-A)<br>
   <!-- _IEEE/ACM Transcations on Networking_, 2026 (CCF-A)(In Submission)<br> -->
   <span class='paper-asset'><a href="https://arxiv.org/abs/2605.18314">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2605.18314">PDF</a></span> <span class='paper-asset'><a href="https://github.com/Jiazhen-Lei/Janus">Code</a></span>  
 
-<!-- - <span class='paper-prebadge'>arXiv</span> **RadioMaster: Multi-Agent System for Autonomous Radio Signal Generation**<br>
-_<u><b>Jiazhen Lei</b></u>, Tianze Cao, Yuxin Sha, Sihan Wang, Bingbing Wang, Fengyuan Zhu, Zeming Yang, Xiaohua Tian_<br>
-<span class='paper-asset'><a href="https://arxiv.org/abs/2606.01862">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2606.01862">PDF</a></span> -->
+- <span class='paper-prebadge'>arXiv</span> **RadioMaster: Multi-Agent System for Autonomous Radio Signal Generation**<br>
+_<u><b>Jiazhen Lei</b></u>, Yuxin Sha, Tianze Cao, Sihan Wang, Bingbing Wang, Zeming Yang, Fengyuan Zhu, Xiaohua Tian_<br>
+<span class='paper-asset'><a href="https://arxiv.org/abs/2606.01862">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2606.01862">PDF</a></span>
 
+- <span class='paper-prebadge'>In Submission</span> **DeepRadio: A Human–Agent Workspace for Physical Radio Development**<br>
+_<u><b>Jiazhen Lei</b></u>, Yuxin Sha, Sihan Wang, Wenhui Li, Jinyang Sun, Chengyu Lu, Xiaohua Tian_<br>
+
+- <span class='paper-prebadge'>In Submission</span> **NarrativeSteward: Coordinating Delegation, Guidance, and Verification in AI-Assisted Interactive Narrative Authoring**<br>
+_Wenjin Wang, <u><b>Jiazhen Lei</b></u>, Yuxin Sha, Nuwa Xi, Bruce Zhao, Xingxi Yin, Qi Liu, Yuliang Shen, Zixun Sun_<br>
 
 # 🚀 Projects
 

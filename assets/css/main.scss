@@ -77,6 +77,61 @@
   }
 }
 
+.interest-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1em;
+  margin: 1em 0 1.5em 0;
+}
+
+.interest-card {
+  border: 1px solid #efefef;
+  border-left-width: 4px;
+  border-radius: 5px;
+  padding: 1em 1.1em;
+  background: #fafafa;
+
+  h3 {
+    margin: 0 0 0.4em 0;
+    font-size: 1em;
+  }
+
+  p {
+    margin: 0;
+    line-height: 1.5;
+  }
+}
+
+.interest-card .interest-works {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45em 0.7em;
+  margin-top: 0.75em;
+  font-size: 0.85em;
+
+  a {
+    text-decoration: none;
+  }
+}
+
+.interest-card--purple {
+  border-left-color: #542971;
+}
+
+.interest-card--blue {
+  border-left-color: #1565c0;
+}
+
+.interest-card--teal {
+  border-left-color: #2aa198;
+}
+
+@include breakpoint($medium) {
+  .interest-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
 .paper-box {
   display: flex;
   justify-content: left;
