@@ -21,15 +21,13 @@ Hi, I'm currently third-year Ph.D. candidate at [Xtian Group](https://xtian.sjtu
 
 I received my bachelor’s degree from [the School of Electronics and Information](https://dianzi.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/index.htm), Xi’an, China, in 2023. (Rank: 1/98).
 
-My previous research primarily focused on the design of **Hybrid Active-Passive Communication Systems** for **Ambient IoT**. Currently, I am exploring the application of **LLM-powered Agentic Systems** to tackle domain-specific challenges in the radio field. Moving forward, I aspire to delve deeply into next-generation wireless embodied AI and its practical applications.
+My previous research focused on **Hybrid Active-Passive Communication Systems** for **Ambient IoT**. I am now building **Physical AI Agents** that sense, reason, and act in the radio world, using LLM-powered systems to tackle domain-specific wireless tasks.
 
-I was successfully selected for the 2026 Tencent Rhino-bird Research Elite Program (2026腾讯犀牛鸟精英人才计划) and will start studying at Tencent IEG in May 2026, where I work closely with [Wenjin Wang](https://scholar.google.co.cr/citations?user=doeQD9kAAAAJ&hl=nl) on game narrative agents and foundation models.
+I was selected for the 2026 Tencent Rhino-bird Research Elite Program (2026腾讯犀牛鸟精英人才计划) and am currently interning at Tencent IEG, working closely with [Wenjin Wang](https://scholar.google.co.cr/citations?user=doeQD9kAAAAJ&hl=nl) on game narrative agents and foundation models.
 
 <!-- I am looking for collaborations and am also open to **interested undergraduate interns**. Please feel free to contact me! -->
 
 <!-- My research interest includes neural machine translation and computer vision.  -->
-
-<!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
 
@@ -56,7 +54,7 @@ I was successfully selected for the 2026 Tencent Rhino-bird Research Elite Progr
     </p>
   </div>
   <div class="interest-card interest-card--teal">
-    <h3>Game Narrative</h3>
+    <h3>Game World Narrative</h3>
     <p>Exploring narrative agents and foundation models for games.</p>
     <p class="interest-works">
       <span>NarrativeSteward <span class="paper-prebadge">In Submission</span></span>
@@ -131,7 +129,7 @@ _<u><b>Jiazhen Lei</b></u>, Yuxin Sha, Tianze Cao, Sihan Wang, Bingbing Wang, Ze
 _<u><b>Jiazhen Lei</b></u>, Yuxin Sha, Sihan Wang, Wenhui Li, Jinyang Sun, Chengyu Lu, Xiaohua Tian_<br>
 
 - <span class='paper-prebadge'>In Submission</span> **NarrativeSteward: Coordinating Delegation, Guidance, and Verification in AI-Assisted Interactive Narrative Authoring**<br>
-_Wenjin Wang, <u><b>Jiazhen Lei</b></u>, Yuxin Sha, Nuwa Xi, Bruce Zhao, Xingxi Yin, Qi Liu, Yuliang Shen, Zixun Sun_<br>
+_Wenjin Wang, <u><b>Jiazhen Lei</b></u>, Nuwa Xi, Bruce Zhao, Xingxi Yin, Qi Liu, Yuliang Shen, Zixun Sun_<br>
 
 # 🚀 Projects
 
@@ -190,11 +188,6 @@ _Wenjin Wang, <u><b>Jiazhen Lei</b></u>, Yuxin Sha, Nuwa Xi, Bruce Zhao, Xingxi 
 
 # 📖 Educations
 
-
-<!-- - _2023.06 - 2028.06 (now)_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- _2019.09 - 2023.06_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- _2013.09 - 2019.06_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
-
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/sjtu.png' alt="SJTU" width="100%" style="max-width:120px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -241,7 +234,7 @@ Beyond research, I am deeply passionate about the outdoors. To date, I have fini
 
 - 2026 HYROX Shanghai, _MEN OPEN_, 2026.5.16 **(PB 1:57'19", Congratulations!)**
 - 2026 SPARTAN Shanghai, _5KM Racing_，2026.4.25
-- 2026 Bank of JianSu Nanjing Half Marathon, _Half Marathon Category_, 2026.3.15 **(PB 2:04'12", Congratulations!)**
+- 2026 Bank of JiangSu Nanjing Half Marathon, _Half Marathon Category_, 2026.3.15 **(PB 2:04'12", Congratulations!)**
 - 2025 Daishan Headlands Half Marathon, _Half Marathon Category_, 2025.3.30
 - 2025 Nantong Marathon, _Half Marathon Category_, 2025.3.23
 - 2024 Taicang Sino-German Half Marathon, _Half Marathon Category_, 2024.11.17
@@ -260,27 +253,12 @@ Beyond research, I am deeply passionate about the outdoors. To date, I have fini
   <img src="images/hyrox2.jpg" alt="life7" style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 5px;">
 </div>
 
-
-<!-- <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; margin-top: 1em;">
-  <img src="images/life3.jpg" alt="life1" style="width: 24%; object-fit: cover; border-radius: 5px;">
-  <img src="images/life4.jpg" alt="life2" style="width: 24%; object-fit: cover; border-radius: 5px;">
-  <img src="images/life5.jpg" alt="life3" style="width: 24%; object-fit: cover; border-radius: 5px;">
-  <img src="images/hyrox1.jpg" alt="life4" style="width: 24%; object-fit: cover; border-radius: 5px;">
-</div>
-
-<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; margin-top: 1em;">
-  <img src="images/life1.jpg" alt="life1" style="width: 33%; object-fit: cover; border-radius: 5px;">
-  <img src="images/life2.jpg" alt="life2" style="width: 33%; object-fit: cover; border-radius: 5px;">
-  <img src="images/hyrox2.jpg" alt="life3" style="width: 33%; object-fit: cover; border-radius: 5px;">
-</div> -->
-
 # 📫 Contact
 
 Email: leijiazhen@gmail.com
 
 <div>
 
-<!-- <a href='https://clustrmaps.com/site/1c9gq'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=600&t=tt&d=mVixI3k1IAYm-HCwb2F6c6keRF5jbL60zT2cXLNMuqs&co=2d78ad&ct=ffffff'/></a> -->
 <a href="https://info.flagcounter.com/3xtv"><img src="https://s01.flagcounter.com/map/3xtv/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
 </div>
