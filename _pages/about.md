@@ -21,7 +21,7 @@ Hi, I'm currently third-year Ph.D. candidate at [Xtian Group](https://xtian.sjtu
 
 I received my bachelor’s degree from [the School of Electronics and Information](https://dianzi.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/index.htm), Xi’an, China, in 2023. (Rank: 1/98).
 
-My previous research focused on **Hybrid Active-Passive Communication Systems** for **Ambient IoT**. I am now building **Physical AI Agents** that sense, reason, and act in the radio world, using LLM-powered systems to tackle domain-specific wireless tasks.
+I am a rather lazy person, so my research centers on a simple question: ***how can we make radio easier for people to use?*** I pursue this along two lines. **Hybrid Active-Passive Communication** builds a software-defined hybrid radio platform, lowering the hardware barrier so people can prototype active–passive systems without first becoming RF hardware specialists. **Physical AI Agents** take over domain-specific wireless work by sensing, reasoning, and acting in the radio world, so people can accomplish radio tasks without becoming radio experts.
 
 I was selected for the 2026 Tencent Rhino-bird Research Elite Program (2026腾讯犀牛鸟精英人才计划) and am currently interning at Tencent IEG, working closely with [Wenjin Wang](https://scholar.google.co.cr/citations?user=doeQD9kAAAAJ&hl=nl) on game narrative agents and foundation models.
 

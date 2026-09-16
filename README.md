@@ -1,7 +1,13 @@
+### Hi there 👋
 
-<h1 align="center">
-AcadHomepage
-</h1>
+- 🔭 I’m a third-year Ph.D. candidate at [Xtian Group](https://xtian.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), advised by [Prof. Xiaohua Tian](https://xtian.sjtu.edu.cn/).
+- 🌱 I previously worked on **Hybrid Active-Passive Communication** for Ambient IoT. I am now building **Physical AI Agents** that sense, reason, and act in the radio world, and exploring **game narrative** agents.
+- 🏢 I’m currently interning at Tencent IEG through the 2026 Tencent Rhino-bird Research Elite Program.
+- ⚡ Python / C / C++ / Verilog
+- 💬 Homepage: [jiazhen-lei.github.io](https://jiazhen-lei.github.io/)
+- 📫 Email: [leijiazhen@gmail.com](mailto:leijiazhen@gmail.com)
+- 🔗 [Google Scholar](https://scholar.google.com/citations?user=aG72zboAAAAJ&hl=zh-CN) · [DBLP](https://dblp.org/pid/419/2519.html) · [ORCID](https://orcid.org/0009-0002-7324-2150)
+- 🏃 Outdoors: half-marathons, HYROX, long-distance cycling
 
 <div align="center">
 
