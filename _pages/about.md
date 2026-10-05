@@ -57,7 +57,7 @@ I was selected for the 2026 Tencent Rhino-bird Research Elite Program (2026腾�
     <h3>Game World Narrative</h3>
     <p>Exploring narrative agents and foundation models for games.</p>
     <p class="interest-works">
-      <span>NarrativeSteward <span class="paper-prebadge">In Submission</span></span>
+      <a href="https://arxiv.org/abs/2609.39333">NarrativeSteward <span class="paper-prebadge">arXiv</span></a>
     </p>
   </div>
 </div>
@@ -130,6 +130,7 @@ _<u><b>Jiazhen Lei</b></u>, Yuxin Sha, Sihan Wang, Wenhui Li, Jinyang Sun, Cheng
 
 - <span class='paper-prebadge'>In Submission</span> **NarrativeSteward: Coordinating Delegation, Guidance, and Verification in AI-Assisted Interactive Narrative Authoring**<br>
 _Wenjin Wang, <u><b>Jiazhen Lei</b></u>, Nuwa Xi, Bruce Zhao, Xingxi Yin, Qi Liu, Yuliang Shen, Zixun Sun_<br>
+  <span class='paper-asset'><a href="https://arxiv.org/abs/2609.39333">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2609.39333">PDF</a></span> <span class='paper-asset'><a href="https://github.com/Tencent/NarrativeSteward">Code</a></span>  
 
 # 🚀 Projects
 
