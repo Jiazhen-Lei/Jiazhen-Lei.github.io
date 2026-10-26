@@ -233,25 +233,33 @@ _Wenjin Wang, <u><b>Jiazhen Lei</b></u>, Nuwa Xi, Bruce Zhao, Xingxi Yin, Qi Liu
 
 Beyond research, I am deeply passionate about the outdoors. To date, I have finished four half-marathons and completed five long-distance cycling rides of over 100km. I hope to keep this adventurous spirit alive as I continue to explore the world.
 
+- 2026 Taizhou Marathon, _Half Marathon Category_, 2026.10.25 **(PB 1:59'48", Congratulations!)**
+- 2026 Bank of Jiangsu Hangzhou Xianghu Half Marathon, _Half Marathon Category_, 2026.10.18
 - 2026 HYROX Shanghai, _MEN OPEN_, 2026.5.16 **(PB 1:57'19", Congratulations!)**
 - 2026 SPARTAN Shanghai, _5KM Racing_，2026.4.25
-- 2026 Bank of JiangSu Nanjing Half Marathon, _Half Marathon Category_, 2026.3.15 **(PB 2:04'12", Congratulations!)**
+- 2026 Bank of Jiangsu Nanjing Half Marathon, _Half Marathon Category_, 2026.3.15
 - 2025 Daishan Headlands Half Marathon, _Half Marathon Category_, 2025.3.30
 - 2025 Nantong Marathon, _Half Marathon Category_, 2025.3.23
 - 2024 Taicang Sino-German Half Marathon, _Half Marathon Category_, 2024.11.17
 - 2022 Qinling Mountains, _Cycling to the North-South Watershed_, 2022.5.29 [\[bilibili\]](https://www.bilibili.com/video/BV1Ra411j73S/)
 
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-top: 1em;">
+  <img src="images/outdoor1.jpg" alt="outdoor1" style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 5px;">
+  <img src="images/cycling1.jpg" alt="cycling1" style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 5px;">
+  <img src="images/hyrox2.jpg" alt="hyrox2" style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 5px;">
+</div>
+
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-top: 1em;">
-  <img src="images/life3.jpg" alt="life1" style="width: 100%; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 5px;">
-  <img src="images/life4.jpg" alt="life2" style="width: 100%; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 5px;">
-  <img src="images/life5.jpg" alt="life3" style="width: 100%; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 5px;">
-  <img src="images/hyrox1.jpg" alt="life4" style="width: 100%; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 5px;">
+  <img src="images/run1.jpg" alt="run1" style="width: 100%; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 5px;">
+  <img src="images/run2.jpg" alt="run2" style="width: 100%; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 5px;">
+  <img src="images/spartan.jpg" alt="spartan" style="width: 100%; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 5px;">
+  <img src="images/hyrox1.jpg" alt="hyrox1" style="width: 100%; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 5px;">
 </div>
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-top: 1em;">
-  <img src="images/life1.jpg" alt="life5" style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 5px;">
-  <img src="images/life2.jpg" alt="life6" style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 5px;">
-  <img src="images/hyrox2.jpg" alt="life7" style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 5px;">
+  <img src="images/run3.jpg" alt="run3" style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 5px;">
+  <img src="images/cycling2.jpg" alt="cycling2" style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 5px;">
+  <img src="images/run4.jpg" alt="run4" style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 5px;">
 </div>
 
 # 📫 Contact
