@@ -50,7 +50,7 @@ I was selected for the 2026 Tencent Rhino-bird Research Elite Program (2026腾�
     <p>Building agents that act in the physical radio world.</p>
     <p class="interest-works">
       <a href="https://arxiv.org/abs/2606.01862">RadioMaster <span class="paper-prebadge">arXiv</span></a>
-      <span>DeepRadio <span class="paper-prebadge">In Submission</span></span>
+      <a href="/deepradio/">DeepRadio <span class="paper-prebadge">In Submission</span></a>
     </p>
   </div>
   <div class="interest-card interest-card--teal">
@@ -82,6 +82,7 @@ _<u><b>Jiazhen Lei</b></u>, Yuxin Sha, Tianze Cao, Sihan Wang, Bingbing Wang, Ze
 
 - <span class='paper-prebadge'>In Submission</span> **DeepRadio: A Human–Agent Workspace for Physical Radio Development**<br>
 _<u><b>Jiazhen Lei</b></u>, Yuxin Sha, Sihan Wang, Wenhui Li, Jinyang Sun, Chengyu Lu, Xiaohua Tian_<br>
+<span class='paper-asset'><a href="/deepradio/"><i class="fas fa-globe"></i> Project Page</a></span> <!-- <span class='paper-asset'><a href="https://github.com/YOUR_REPO/DeepRadio"><i class="fab fa-github"></i> Code</a></span> -->
 
 ## Journal
 - <span class='paper-badge'>TMC 2026</span> **Tiga: Autonomous Hybrid Active-Passive Communication for Ambient IoT System**<br>
@@ -127,6 +128,7 @@ _<u><b>Jiazhen Lei</b></u>, Yuxin Sha, Tianze Cao, Sihan Wang, Bingbing Wang, Ze
 
 - <span class='paper-prebadge'>In Submission</span> **DeepRadio: A Human–Agent Workspace for Physical Radio Development**<br>
 _<u><b>Jiazhen Lei</b></u>, Yuxin Sha, Sihan Wang, Wenhui Li, Jinyang Sun, Chengyu Lu, Xiaohua Tian_<br>
+<span class='paper-asset'><a href="/deepradio/"><i class="fas fa-globe"></i> Project Page</a></span> <!-- <span class='paper-asset'><a href="https://github.com/YOUR_REPO/DeepRadio"><i class="fab fa-github"></i> Code</a></span> -->
 
 - <span class='paper-prebadge'>In Submission</span> **NarrativeSteward: Coordinating Delegation, Guidance, and Verification in AI-Assisted Interactive Narrative Authoring**<br>
 _Wenjin Wang, <u><b>Jiazhen Lei</b></u>, Nuwa Xi, Bruce Zhao, Xingxi Yin, Qi Liu, Yuliang Shen, Zixun Sun_<br>

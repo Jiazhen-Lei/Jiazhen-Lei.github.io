@@ -1,0 +1,679 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="description" content="DeepRadio: A Human–Agent Workspace for Physical Radio Development">
+  <meta name="keywords" content="DeepRadio, Software-Defined Radio, GNU Radio, Human-Agent Collaboration, Multi-Agent Systems">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>DeepRadio: A Human–Agent Workspace for Physical Radio Development</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;500;700&family=Noto+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+  <style>
+    body {
+      font-family: 'Noto Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+      color: #2c3e50;
+      background-color: #ffffff;
+    }
+    .publication-title {
+      font-family: 'Google Sans', sans-serif;
+      font-weight: 700;
+      color: #1a202c;
+      line-height: 1.25;
+    }
+    .publication-authors {
+      font-family: 'Google Sans', sans-serif;
+      margin-top: 0.75rem;
+    }
+    .author-block {
+      display: inline-block;
+      margin-right: 0.35rem;
+    }
+    .author-block a {
+      color: #1565c0;
+      text-decoration: none;
+    }
+    .author-block a:hover {
+      text-decoration: underline;
+    }
+    .publication-links {
+      margin-top: 1.4rem;
+    }
+    .link-block {
+      display: inline-block;
+      margin: 0.25rem;
+    }
+    .external-link.button {
+      background-color: #24292e;
+      color: #fff;
+      border: none;
+      font-family: 'Google Sans', sans-serif;
+      font-weight: 500;
+      padding-left: 1.15em;
+      padding-right: 1.15em;
+      transition: transform 0.15s ease, background-color 0.15s ease;
+    }
+    .external-link.button:hover {
+      background-color: #1565c0;
+      color: #fff;
+      transform: translateY(-1px);
+    }
+    .hero.teaser {
+      padding-top: 0.5rem;
+      padding-bottom: 2rem;
+    }
+    .figure-box {
+      background: #ffffff;
+      border-radius: 10px;
+      padding: 0.75rem;
+      border: 1px solid #eaecef;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.05);
+    }
+    .figure-caption {
+      font-size: 0.92rem;
+      color: #4a5568;
+      margin-top: 0.75rem;
+      line-height: 1.55;
+      text-align: left;
+    }
+    .section-alt {
+      background-color: #f8fafc;
+      border-top: 1px solid #edf2f7;
+      border-bottom: 1px solid #edf2f7;
+    }
+    .mechanism-card {
+      height: 100%;
+      background: #ffffff;
+      border-radius: 10px;
+      padding: 1.4rem;
+      border: 1px solid #e2e8f0;
+      border-top: 4px solid #1565c0;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03);
+    }
+    .mechanism-card.card-teal {
+      border-top-color: #2aa198;
+    }
+    .mechanism-card.card-purple {
+      border-top-color: #542971;
+    }
+    .mechanism-card h4 {
+      font-family: 'Google Sans', sans-serif;
+      font-weight: 700;
+      font-size: 1.1rem;
+      margin-bottom: 0.6rem;
+      color: #1a202c;
+    }
+    .mechanism-card p {
+      font-size: 0.94rem;
+      line-height: 1.6;
+      color: #4a5568;
+    }
+    .demo-tabs {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 0.6rem;
+      margin-bottom: 1.75rem;
+    }
+    .demo-tab-btn {
+      font-family: 'Google Sans', sans-serif;
+      font-weight: 600;
+      font-size: 0.95rem;
+      padding: 0.6rem 1.2rem;
+      border-radius: 999px;
+      border: 1px solid #cbd5e1;
+      background: #ffffff;
+      color: #334155;
+      cursor: pointer;
+      transition: all 0.15s ease;
+    }
+    .demo-tab-btn:hover {
+      border-color: #1565c0;
+      color: #1565c0;
+    }
+    .demo-tab-btn.is-active {
+      background: #1565c0;
+      border-color: #1565c0;
+      color: #ffffff;
+      box-shadow: 0 3px 10px rgba(21, 101, 192, 0.25);
+    }
+    .demo-pane {
+      display: none;
+    }
+    .demo-pane.is-active {
+      display: block;
+    }
+    .prompt-banner {
+      background: #f1f5f9;
+      border-left: 4px solid #1565c0;
+      border-radius: 6px;
+      padding: 0.85rem 1.1rem;
+      margin-bottom: 1.25rem;
+      font-size: 0.95rem;
+    }
+    .prompt-banner code {
+      font-family: 'JetBrains Mono', monospace;
+      background: transparent;
+      color: #0f172a;
+      font-weight: 500;
+      padding: 0;
+    }
+    .badge-pill {
+      display: inline-block;
+      padding: 0.2rem 0.65rem;
+      font-size: 0.78rem;
+      font-weight: 600;
+      border-radius: 999px;
+      margin-right: 0.4rem;
+      background: #e0f2fe;
+      color: #0369a1;
+    }
+    .badge-pill.is-green {
+      background: #dcfce7;
+      color: #15803d;
+    }
+    .badge-pill.is-purple {
+      background: #f3e8ff;
+      color: #6b21a8;
+    }
+    .sub-switcher {
+      display: inline-flex;
+      gap: 0.5rem;
+      margin-bottom: 1rem;
+      background: #f1f5f9;
+      padding: 0.3rem;
+      border-radius: 8px;
+    }
+    .sub-switch-btn {
+      font-size: 0.85rem;
+      font-weight: 600;
+      padding: 0.4rem 0.9rem;
+      border-radius: 6px;
+      border: none;
+      background: transparent;
+      color: #475569;
+      cursor: pointer;
+    }
+    .sub-switch-btn.is-active {
+      background: #ffffff;
+      color: #1565c0;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    }
+    pre.bibtex-box {
+      background-color: #f8fafc;
+      border: 1px solid #e2e8f0;
+      border-radius: 8px;
+      padding: 1.25rem;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.86rem;
+      color: #1e293b;
+      overflow-x: auto;
+    }
+    .rx-phone-img {
+      max-height: 460px;
+      width: auto;
+      border-radius: 12px;
+      border: 1px solid #e2e8f0;
+      box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Top Navigation Bar back to Homepage -->
+  <nav class="navbar is-light" role="navigation" aria-label="main navigation" style="border-bottom: 1px solid #eaecef;">
+    <div class="container is-max-desktop">
+      <div class="navbar-brand">
+        <a class="navbar-item" href="/" style="font-weight: 600; color: #1565c0;">
+          <i class="fas fa-arrow-left" style="margin-right: 0.5rem;"></i> Jiazhen Lei's Homepage
+        </a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Hero Title & Authors -->
+  <section class="hero">
+    <div class="hero-body" style="padding-bottom: 1.5rem;">
+      <div class="container is-max-desktop">
+        <div class="columns is-centered">
+          <div class="column has-text-centered">
+            <h1 class="title is-2 publication-title">
+              DeepRadio: A Human–Agent Workspace for Physical Radio Development
+            </h1>
+
+            <div class="is-size-5 publication-authors">
+              <span class="author-block"><a href="/">Jiazhen Lei</a><sup>1</sup>,</span>
+              <span class="author-block">Yuxin Sha<sup>1</sup>,</span>
+              <span class="author-block">Sihan Wang<sup>1</sup>,</span>
+              <span class="author-block">Wenhui Li<sup>1</sup>,</span>
+              <span class="author-block">Jinyang Sun<sup>1</sup>,</span>
+              <span class="author-block">Chengyu Lu<sup>1</sup>,</span>
+              <span class="author-block"><a href="https://xtian.sjtu.edu.cn/" target="_blank">Xiaohua Tian</a><sup>1,*</sup></span>
+            </div>
+
+            <div class="is-size-5 publication-authors" style="margin-top: 0.35rem; color: #4a5568;">
+              <span class="author-block"><sup>1</sup><a href="https://icisee.sjtu.edu.cn/" target="_blank" style="color: #4a5568;">School of Integrated Circuits, Shanghai Jiao Tong University</a></span>
+            </div>
+            <div class="is-size-6 publication-authors" style="margin-top: 0.2rem; color: #64748b;">
+              <span>(* Corresponding author.)</span>
+            </div>
+
+            <div class="column has-text-centered publication-links">
+              <span class="link-block">
+                <a href="#abstract" class="external-link button is-normal is-rounded">
+                  <span class="icon"><i class="fas fa-file-pdf"></i></span>
+                  <span>Paper (Coming Soon)</span>
+                </a>
+              </span>
+              <!-- Code link placeholder (uncomment upon official release)
+              <span class="link-block">
+                <a href="https://github.com/YOUR_REPO/DeepRadio" target="_blank" class="external-link button is-normal is-rounded">
+                  <span class="icon"><i class="fab fa-github"></i></span>
+                  <span>Code</span>
+                </a>
+              </span>
+              -->
+              <span class="link-block">
+                <a href="#system-design" class="external-link button is-normal is-rounded">
+                  <span class="icon"><i class="fas fa-layer-group"></i></span>
+                  <span>System Design</span>
+                </a>
+              </span>
+              <span class="link-block">
+                <a href="#demos" class="external-link button is-normal is-rounded">
+                  <span class="icon"><i class="fas fa-satellite-dish"></i></span>
+                  <span>Representative Demos</span>
+                </a>
+              </span>
+              <span class="link-block">
+                <a href="#BibTeX" class="external-link button is-normal is-rounded">
+                  <span class="icon"><i class="fas fa-quote-right"></i></span>
+                  <span>BibTeX</span>
+                </a>
+              </span>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Teaser Figure -->
+  <section class="hero teaser">
+    <div class="container is-max-desktop">
+      <div class="figure-box has-text-centered">
+        <img src="./static/images/teaser.png" alt="DeepRadio Teaser" style="width: 100%; border-radius: 6px;">
+        <p class="figure-caption">
+          <strong>Figure 1:</strong> Contrasting opaque end-to-end automation with the <strong>DeepRadio</strong> workspace for physical radio development. <em>Top:</em> an agent builds and runs a radio system directly from a high-level request, leaving the user unable to trace an unsuccessful physical outcome. <em>Bottom:</em> DeepRadio keeps the development process inspectable through co-design, cross-layer verification, and human-controlled deployment.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Abstract -->
+  <section class="section section-alt" id="abstract">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3">Abstract</h2>
+          <div class="content has-text-justified" style="font-size: 1.03rem; line-height: 1.75;">
+            <p>
+              Agentic programming can automate software-defined radio (SDR) development, but decisions can propagate from software to hardware without sufficient user visibility or control. We present <strong>DeepRadio</strong>, a human–agent workspace embedded in GNU Radio Companion (GRC) for jointly constructing, verifying, and operating physical radio systems. DeepRadio uses a dynamic and state-driven workflow to coordinate a traceable radio specification, claim-oriented cross-layer verification, and mixed-initiative control. These mechanisms expose decisions, tie conclusions to available evidence, and return control to users before consequential hardware actions.
+            </p>
+            <p>
+              Across seven atomic SDR tasks, DeepRadio completed nearly all runs (95.7%) while satisfying all prescribed software and radio-frequency constraints (100%). In a 20-participant study in a real-world wireless environment, more participants achieved a verified physical deployment with DeepRadio (95%) than with Codex-assisted GRC (50%), reducing the median time to verified success from 34.2 minutes to 14.6 minutes. Participants also reported stronger support for shared intent and understanding while retaining initiative and control.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- System Design & Core Mechanisms -->
+  <section class="section" id="system-design">
+    <div class="container is-max-desktop">
+      <h2 class="title is-3 has-text-centered">System Design &amp; Core Mechanisms</h2>
+      <div class="content has-text-justified" style="margin-bottom: 1.5rem;">
+        <p>
+          Building a physical SDR system requires coordinating decisions across protocol design, digital signal processing (DSP), flowgraph structure, runtime configuration, radio hardware, and the over-the-air environment. Rather than imposing a rigid black-box pipeline, DeepRadio organizes human–agent collaboration around the user's evolving intent, a shared versioned engineering state, and empirical evidence produced during execution.
+        </p>
+      </div>
+
+      <div class="figure-box has-text-centered" style="margin-bottom: 2rem;">
+        <img src="./static/images/overview.png" alt="DeepRadio System Overview" style="width: 100%; border-radius: 6px;">
+        <p class="figure-caption">
+          <strong>Figure 2:</strong> DeepRadio connects the user's intent-to-radio process (top), a dynamic and state-driven multi-agent workflow (middle), and a shared engineering backbone for traceable intent, claim–evidence grounding, and adaptive control (bottom).
+        </p>
+      </div>
+
+      <div class="columns is-multiline" style="margin-bottom: 2rem;">
+        <div class="column is-4">
+          <div class="mechanism-card">
+            <h4><i class="fas fa-compass-drafting" style="color: #1565c0; margin-right: 0.4rem;"></i> Traceable Radio Specification</h4>
+            <p>
+              Externalizes user intent into goals, success conditions, locked constraints, committed decisions, and open questions. Every parameter retains its source provenance (<code>user-provided</code>, <code>protocol default</code>, <code>safety default</code>, <code>inherited</code>, or <code>system-derived</code>) so agent assumptions never silently become user commitments.
+            </p>
+          </div>
+        </div>
+        <div class="column is-4">
+          <div class="mechanism-card card-teal">
+            <h4><i class="fas fa-clipboard-check" style="color: #2aa198; margin-right: 0.4rem;"></i> Claim–Evidence Verification</h4>
+            <p>
+              Separates verification across seven explicit scopes: <em>Flowgraph</em>, <em>Signal</em>, <em>Protocol</em>, <em>Hardware</em>, <em>Runtime</em>, <em>RF</em>, and <em>Task</em>. Claims and evidence are bound to the tested project version; a valid graph or running process cannot be mistaken for over-the-air reception.
+            </p>
+          </div>
+        </div>
+        <div class="column is-4">
+          <div class="mechanism-card card-purple">
+            <h4><i class="fas fa-sliders" style="color: #542971; margin-right: 0.4rem;"></i> Mixed-Initiative Control</h4>
+            <p>
+              Governs state-changing actions via a deterministic priority policy (<code>Deny</code> &rarr; <code>Confirm</code> &rarr; <code>Propose</code> &rarr; <code>Allow</code>). Multi-block software changes require proposal review with automatic snapshots, while hardware configuration and bounded RF emission require explicit user authorization.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="columns is-vcentered">
+        <div class="column is-6">
+          <div class="figure-box has-text-centered">
+            <img src="./static/images/ui.png" alt="DeepRadio Embedded GRC Interface" style="width: 100%; border-radius: 6px;">
+            <p class="figure-caption">
+              <strong>Figure 3:</strong> The DeepRadio workspace embedded in GRC: (1) editable flowgraph canvas, (2–3) user expertise and language adaptation, (4) dialogue and expandable radio specification, (5) stage-level workflow monitor, (6) version-bound claims table, and (7) interactive control input.
+            </p>
+          </div>
+        </div>
+        <div class="column is-6">
+          <div class="figure-box has-text-centered">
+            <img src="./static/images/usercase.png" alt="DeepRadio Co-Construction Walkthrough" style="width: 100%; border-radius: 6px;">
+            <p class="figure-caption">
+              <strong>Figure 4:</strong> Six-stage human–agent co-construction walkthrough: (a) eliciting missing requirements, (b) reviewing the specification and workflow, (c) verifying design evidence, (d) catching hardware disconnection safely, (e) manual repair and reconfiguration, and (f) bounded transmission verified by a commercial receiver.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Representative Experimental Demos -->
+  <section class="section section-alt" id="demos">
+    <div class="container is-max-desktop">
+      <h2 class="title is-3 has-text-centered">Representative Experimental Demos</h2>
+      <p class="subtitle is-6 has-text-centered" style="max-width: 760px; margin: 0 auto 1.75rem auto; color: #4a5568;">
+        Explore real execution traces captured from the DeepRadio workspace across baseband simulation, non-destructive diagnosis, guided flowgraph reconfiguration, live SDR spectrum observation, and over-the-air BLE physical deployment.
+      </p>
+
+      <!-- Main Demo Tabs -->
+      <div class="demo-tabs" role="tablist">
+        <button class="demo-tab-btn is-active" onclick="switchDemoTab('demo-sim', this)">
+          <i class="fas fa-wave-square" style="margin-right: 0.35rem;"></i> 1. Link Construction &amp; EVM Verification
+        </button>
+        <button class="demo-tab-btn" onclick="switchDemoTab('demo-diag', this)">
+          <i class="fas fa-stethoscope" style="margin-right: 0.35rem;"></i> 2. Diagnosis &amp; Guided Reconfiguration
+        </button>
+        <button class="demo-tab-btn" onclick="switchDemoTab('demo-liverx', this)">
+          <i class="fas fa-chart-area" style="margin-right: 0.35rem;"></i> 3. Live SDR Spectrum Observation
+        </button>
+        <button class="demo-tab-btn" onclick="switchDemoTab('demo-ble', this)">
+          <i class="fas fa-broadcast-tower" style="margin-right: 0.35rem;"></i> 4. Over-the-Air BLE Deployment
+        </button>
+      </div>
+
+      <!-- Demo 1: End-to-End Link Construction & EVM Verification -->
+      <div id="demo-sim" class="demo-pane is-active">
+        <div class="figure-box" style="padding: 1.5rem;">
+          <div style="margin-bottom: 0.75rem;">
+            <span class="badge-pill">Baseband Simulation</span>
+            <span class="badge-pill is-green">Measured EVM: 5.911% (&lt; 10% Target)</span>
+            <span class="badge-pill is-purple">Scopes: Flowgraph + Signal + Task</span>
+          </div>
+          <div class="prompt-banner">
+            <strong>User Prompt:</strong> <code>Build BPSK through AWGN and measure EVM; target EVM below 10%.</code>
+          </div>
+          <p style="font-size: 0.95rem; color: #4a5568; margin-bottom: 1.25rem;">
+            DeepRadio aligns the specification (BPSK modulation, AWGN channel, offline simulation mode, and EVM &lt; 10% success criterion), constructs the executable GRC flowgraph, and runs signal-level verification to produce the constellation and power spectral density plots alongside the quantitative EVM measurement.
+          </p>
+          <div class="columns is-multiline">
+            <div class="column is-6">
+              <img src="./static/images/demo_bpsk_align.png" alt="BPSK Specification Alignment and Flowgraph" style="width: 100%; border-radius: 6px; border: 1px solid #e2e8f0;">
+              <p class="figure-caption">
+                <strong>Step 1 — Specification Alignment &amp; Flowgraph Generation:</strong> DeepRadio externalizes the BPSK/AWGN parameters with provenance tags and builds <code>bpsk_awgn.grc</code> on the canvas.
+              </p>
+            </div>
+            <div class="column is-6">
+              <img src="./static/images/demo_bpsk_verified.png" alt="BPSK Constellation, Spectrum, and EVM Evidence" style="width: 100%; border-radius: 6px; border: 1px solid #e2e8f0;">
+              <p class="figure-caption">
+                <strong>Step 2 — Cross-Layer Signal Evidence:</strong> Simulated constellation (clean clusters at &plusmn;1) and spectrum plots confirm an EVM of <strong>5.911%</strong>, satisfying the completion contract.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Demo 2: Non-Destructive Diagnosis & Guided Reconfiguration -->
+      <div id="demo-diag" class="demo-pane">
+        <div class="figure-box" style="padding: 1.5rem;">
+          <div class="has-text-centered">
+            <div class="sub-switcher">
+              <button class="sub-switch-btn is-active" onclick="switchSubPane('diag-sub-1', this)">
+                A. Non-Destructive EVM Diagnosis
+              </button>
+              <button class="sub-switch-btn" onclick="switchSubPane('diag-sub-2', this)">
+                B. Proposal-Guided Modulation Reconfiguration (BPSK &rarr; QPSK)
+              </button>
+            </div>
+          </div>
+
+          <!-- Sub-pane A: Diagnosis -->
+          <div id="diag-sub-1" class="sub-pane">
+            <div style="margin-bottom: 0.75rem;">
+              <span class="badge-pill">Read-Only Diagnosis</span>
+              <span class="badge-pill is-green">Project Version Preserved (Unmodified)</span>
+            </div>
+            <div class="prompt-banner">
+              <strong>User Prompt:</strong> <code>Diagnose the current flowgraph's EVM and suggest the smallest fix; leave the project unchanged.</code>
+            </div>
+            <p style="font-size: 0.95rem; color: #4a5568; margin-bottom: 1rem;">
+              Under a read-only constraint, DeepRadio inspects the active BPSK flowgraph, runs controlled diagnostic checks to isolate the dominant impairment (<code>noise_voltage = 0.05</code> in the AWGN channel block), and recommends a minimal parameter adjustment while strictly preserving the project state and hash.
+            </p>
+            <img src="./static/images/demo_diagnosis.png" alt="Non-Destructive EVM Diagnosis" style="width: 100%; border-radius: 6px; border: 1px solid #e2e8f0;">
+          </div>
+
+          <!-- Sub-pane B: Reconfiguration -->
+          <div id="diag-sub-2" class="sub-pane" style="display: none;">
+            <div style="margin-bottom: 0.75rem;">
+              <span class="badge-pill">Mixed-Initiative Proposal</span>
+              <span class="badge-pill is-purple">Snapshot + Version Advance + Re-Verification</span>
+            </div>
+            <div class="prompt-banner">
+              <strong>User Prompt:</strong> <code>Change the current BPSK project to QPSK.</code>
+            </div>
+            <p style="font-size: 0.95rem; color: #4a5568; margin-bottom: 1.25rem;">
+              When modifying an existing project, DeepRadio presents a specification and change proposal before mutating the canvas. Once approved, it saves a recoverable snapshot, updates the modulation blocks to QPSK, advances the project version, and re-evaluates the signal evidence.
+            </p>
+            <div class="columns is-multiline">
+              <div class="column is-6">
+                <img src="./static/images/demo_reconfig_proposal.png" alt="BPSK to QPSK Proposal Checkpoint" style="width: 100%; border-radius: 6px; border: 1px solid #e2e8f0;">
+                <p class="figure-caption">
+                  <strong>Before Commit (Proposal Checkpoint):</strong> DeepRadio preserves inherited AWGN settings and pauses for user confirmation before applying the QPSK conversion.
+                </p>
+              </div>
+              <div class="column is-6">
+                <img src="./static/images/demo_reconfig_verified.png" alt="Updated QPSK Constellation and Spectrum" style="width: 100%; border-radius: 6px; border: 1px solid #e2e8f0;">
+                <p class="figure-caption">
+                  <strong>After Approval &amp; Re-Verification:</strong> The updated flowgraph executes and produces a verified 4-point QPSK constellation and spectrum analysis.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Demo 3: Live SDR Spectrum Observation -->
+      <div id="demo-liverx" class="demo-pane">
+        <div class="figure-box" style="padding: 1.5rem;">
+          <div style="margin-bottom: 0.75rem;">
+            <span class="badge-pill">Hardware-in-the-Loop RX</span>
+            <span class="badge-pill is-green">Device: ADALM-Pluto (USB Discovered &amp; Probed)</span>
+            <span class="badge-pill is-purple">Scopes: Hardware + Runtime + RF</span>
+          </div>
+          <div class="prompt-banner">
+            <strong>User Prompt:</strong> <code>Show the live spectrum received at the current PlutoSDR antenna port.</code>
+          </div>
+          <p style="font-size: 0.95rem; color: #4a5568; margin-bottom: 1.25rem;">
+            DeepRadio discovers and probes the connected PlutoSDR, confirms the receive parameters (2.4 GHz center frequency, 1 Msps sample rate, manual RX gain), and launches a bounded live QT GUI spectrum monitor alongside an offline IQ capture for evidence logging.
+          </p>
+          <img src="./static/images/demo_live_rx.png" alt="Live PlutoSDR Spectrum Observation" style="width: 100%; border-radius: 6px; border: 1px solid #e2e8f0;">
+          <p class="figure-caption">
+            <strong>Live PlutoSDR Receiver Execution:</strong> After hardware discovery and user approval, DeepRadio opens the real-time <em>Pluto Rx Spectrum</em> window while tracking runtime status in the workflow monitor.
+          </p>
+        </div>
+      </div>
+
+      <!-- Demo 4: Over-the-Air BLE Deployment -->
+      <div id="demo-ble" class="demo-pane">
+        <div class="figure-box" style="padding: 1.5rem;">
+          <div class="has-text-centered">
+            <div class="sub-switcher">
+              <button class="sub-switch-btn is-active" onclick="switchBlePlatform('ble-b210', this)">
+                Platform A: USRP B210 (Channel 38 · 2426 MHz · 2 Msps)
+              </button>
+              <button class="sub-switch-btn" onclick="switchBlePlatform('ble-pluto', this)">
+                Platform B: ADALM-Pluto (Channel 39 · 2480 MHz · 4 Msps)
+              </button>
+            </div>
+          </div>
+
+          <!-- Platform A: USRP B210 -->
+          <div id="ble-b210" class="ble-platform-pane">
+            <div style="margin-bottom: 0.75rem;">
+              <span class="badge-pill">Over-the-Air RF Transmission</span>
+              <span class="badge-pill is-green">Hardware: Ettus USRP B210</span>
+              <span class="badge-pill is-purple">Independent Commercial Receiver Verified</span>
+            </div>
+            <div class="prompt-banner">
+              <strong>User Prompt:</strong> <code>Transmit a BLE advertisement with Local Name deepradio on channel 38 (2426 MHz) using USRP B210, 2 Msps, TX gain 50 dB, for at most 30 seconds. Afterwards ask whether an independent receiver saw it.</code>
+            </div>
+            <p style="font-size: 0.95rem; color: #4a5568; margin-bottom: 1.25rem;">
+              DeepRadio synthesizes the BLE PDU (<code>deepradio</code>, <code>0x64656570726164696F</code>), validates CRC and whitening offline, probes the USRP B210 via UHD, and pauses at a mandatory RF checkpoint. Only after explicit confirmation does it start a bounded 30-second emission and record independent over-the-air reception from a smartphone running LightBlue.
+            </p>
+            <div class="columns is-vcentered">
+              <div class="column is-8">
+                <img src="./static/images/demo_ble_b210_running.png" alt="USRP B210 Bounded BLE Transmission" style="width: 100%; border-radius: 6px; border: 1px solid #e2e8f0;">
+                <p class="figure-caption">
+                  <strong>USRP B210 Armed &amp; Transmitting:</strong> Following offline packet validation and UHD probe, the user confirms the checkpoint to authorize one bounded 30-second transmission at 2.426 GHz.
+                </p>
+              </div>
+              <div class="column is-4 has-text-centered">
+                <img src="./static/images/demo_ble_b210_rx.jpg" alt="LightBlue Smartphone Reception for B210" class="rx-phone-img">
+                <p class="figure-caption" style="text-align: center;">
+                  <strong>Independent Receiver Evidence:</strong> LightBlue discovers peripheral <code>deepradio</code> (-69 dBm) with matching payload bytes.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Platform B: PlutoSDR -->
+          <div id="ble-pluto" class="ble-platform-pane" style="display: none;">
+            <div style="margin-bottom: 0.75rem;">
+              <span class="badge-pill">Over-the-Air RF Transmission</span>
+              <span class="badge-pill is-green">Hardware: Analog Devices PlutoSDR</span>
+              <span class="badge-pill is-purple">Independent Commercial Receiver Verified</span>
+            </div>
+            <div class="prompt-banner">
+              <strong>User Prompt:</strong> <code>Transmit a BLE advertisement with Local Name deepradio on channel 39 (2480 MHz) using PlutoSDR, 4 Msps, TX attenuation 10 dB, for at most 30 seconds. Afterwards ask whether an independent receiver saw it.</code>
+            </div>
+            <p style="font-size: 0.95rem; color: #4a5568; margin-bottom: 1.25rem;">
+              Across a different SDR architecture and sampling rate (PlutoSDR via IIO at 4 Msps on BLE channel 39), DeepRadio enforces the same cross-layer verification and bounded RF authorization workflow before linking the smartphone receiver observation to the active run.
+            </p>
+            <div class="columns is-vcentered">
+              <div class="column is-8">
+                <img src="./static/images/demo_ble_pluto_running.png" alt="PlutoSDR Bounded BLE Transmission" style="width: 100%; border-radius: 6px; border: 1px solid #e2e8f0;">
+                <p class="figure-caption">
+                  <strong>PlutoSDR Armed &amp; Transmitting:</strong> DeepRadio configures the IIO PlutoSDR Sink at 2.480 GHz, 4 Msps, and 10 dB attenuation, executing a bounded 30-second emission after user approval.
+                </p>
+              </div>
+              <div class="column is-4 has-text-centered">
+                <img src="./static/images/demo_ble_pluto_rx.jpg" alt="LightBlue Smartphone Reception for PlutoSDR" class="rx-phone-img">
+                <p class="figure-caption" style="text-align: center;">
+                  <strong>Independent Receiver Evidence:</strong> LightBlue decodes the live advertisement from <code>deepradio</code> (-63 dBm) over the air.
+                </p>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- BibTeX Citation -->
+  <section class="section" id="BibTeX">
+    <div class="container is-max-desktop content">
+      <h2 class="title is-3">BibTeX</h2>
+      <p>If you find DeepRadio useful in your research or applications, please consider citing our work:</p>
+      <pre class="bibtex-box"><code>@article{lei2026deepradio,
+  title={DeepRadio: A Human--Agent Workspace for Physical Radio Development},
+  author={Lei, Jiazhen and Sha, Yuxin and Wang, Sihan and Li, Wenhui and Sun, Jinyang and Lu, Chengyu and Tian, Xiaohua},
+  year={2026},
+  eprint={XXXX.XXXXX},
+  archivePrefix={arXiv},
+  primaryClass={cs.HC},
+  url={https://arxiv.org/abs/XXXX.XXXXX}
+}</code></pre>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer" style="padding: 2.2rem 1.5rem; background-color: #f8fafc; border-top: 1px solid #eaecef;">
+    <div class="container is-max-desktop">
+      <div class="content has-text-centered" style="font-size: 0.9rem; color: #64748b;">
+        <p>
+          DeepRadio is built on top of <a href="https://www.gnuradio.org/" target="_blank">GNU Radio</a> and <a href="https://wiki.gnuradio.org/index.php/GNURadioCompanion" target="_blank">GNU Radio Companion (GRC)</a>.
+          Page template inspired by <a href="https://zehong-ma.github.io/DeCo/" target="_blank">DeCo</a> and <a href="https://github.com/nerfies/nerfies.github.io" target="_blank">Nerfies</a>.
+        </p>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    function switchDemoTab(paneId, btnEl) {
+      document.querySelectorAll('.demo-pane').forEach(function(el) {
+        el.classList.remove('is-active');
+      });
+      document.querySelectorAll('.demo-tab-btn').forEach(function(btn) {
+        btn.classList.remove('is-active');
+      });
+      document.getElementById(paneId).classList.add('is-active');
+      btnEl.classList.add('is-active');
+    }
+
+    function switchSubPane(subId, btnEl) {
+      var parent = btnEl.closest('.demo-pane');
+      parent.querySelectorAll('.sub-pane').forEach(function(el) {
+        el.style.display = 'none';
+      });
+      parent.querySelectorAll('.sub-switch-btn').forEach(function(btn) {
+        btn.classList.remove('is-active');
+      });
+      document.getElementById(subId).style.display = 'block';
+      btnEl.classList.add('is-active');
+    }
+
+    function switchBlePlatform(platformId, btnEl) {
+      var parent = btnEl.closest('.demo-pane');
+      parent.querySelectorAll('.ble-platform-pane').forEach(function(el) {
+        el.style.display = 'none';
+      });
+      parent.querySelectorAll('.sub-switch-btn').forEach(function(btn) {
+        btn.classList.remove('is-active');
+      });
+      document.getElementById(platformId).style.display = 'block';
+      btnEl.classList.add('is-active');
+    }
+  </script>
+</body>
+</html>
