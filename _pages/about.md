@@ -50,7 +50,7 @@ I was selected for the 2026 Tencent Rhino-bird Research Elite Program (2026腾�
     <p>Building agents that act in the physical radio world.</p>
     <p class="interest-works">
       <a href="https://arxiv.org/abs/2606.01862">RadioMaster <span class="paper-prebadge">arXiv</span></a>
-      <a href="/deepradio/">DeepRadio <span class="paper-prebadge">In Submission</span></a>
+      <a href="/deepradio/">DeepRadio <span class="paper-prebadge">arXiv</span></a>
     </p>
   </div>
   <div class="interest-card interest-card--teal">
@@ -77,12 +77,12 @@ I was selected for the 2026 Tencent Rhino-bird Research Elite Program (2026腾�
   <span class='paper-asset'><a href="https://arxiv.org/abs/2605.18314">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2605.18314">PDF</a></span> <span class='paper-asset'><a href="https://github.com/Jiazhen-Lei/Janus">Code</a></span>  
 
 - <span class='paper-prebadge'>arXiv</span> **RadioMaster: Multi-Agent System for Autonomous Radio Signal Generation**<br>
-_<u><b>Jiazhen Lei</b></u>, Yuxin Sha, Tianze Cao, Sihan Wang, Bingbing Wang, Zeming Yang, Fengyuan Zhu, Xiaohua Tian_<br>
+_<u><b>Jiazhen Lei</b></u>, Yuxin Sha, Tianze Cao, Sihan Wang, Bingbing Wang, Fengyuan Zhu, Xiaohua Tian_<br>
 <span class='paper-asset'><a href="https://arxiv.org/abs/2606.01862">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2606.01862">PDF</a></span>
 
-- <span class='paper-prebadge'>In Submission</span> **DeepRadio: A Human–Agent Workspace for Physical Radio Development**<br>
-_<u><b>Jiazhen Lei</b></u>, Yuxin Sha, Sihan Wang, Wenhui Li, Jinyang Sun, Chengyu Lu, Xiaohua Tian_<br>
-<span class='paper-asset'><a href="/deepradio/"><i class="fas fa-globe"></i> Project Page</a></span> <!-- <span class='paper-asset'><a href="https://github.com/YOUR_REPO/DeepRadio"><i class="fab fa-github"></i> Code</a></span> -->
+- <span class='paper-prebadge'>arXiv</span> **DeepRadio: A Human–Agent Workspace for Physical Radio Development**<br>
+_<u><b>Jiazhen Lei*</b></u>, Yuxin Sha*, Sihan Wang, Wenhui Li, Jinyang Sun, Chengyu Lu, Xiaohua Tian_<br>
+<span class='paper-asset'><a href="https://arxiv.org/abs/2611.09418">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2611.09418">PDF</a></span> <span class='paper-asset'><a href="/deepradio/"><i class="fas fa-globe"></i> Project Page</a></span> <span class='paper-asset'><a href="https://github.com/Jiazhen-Lei/DeepRadio_release"><i class="fab fa-github"></i> Code</a></span>
 
 ## Journal
 - <span class='paper-badge'>TMC 2026</span> **Tiga: Autonomous Hybrid Active-Passive Communication for Ambient IoT System**<br>
@@ -123,14 +123,14 @@ _IEEE Transactions on Networking_, 2025 (CCF-A)<br>
   <span class='paper-asset'><a href="https://arxiv.org/abs/2605.18314">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2605.18314">PDF</a></span> <span class='paper-asset'><a href="https://github.com/Jiazhen-Lei/Janus">Code</a></span>  
 
 - <span class='paper-prebadge'>arXiv</span> **RadioMaster: Multi-Agent System for Autonomous Radio Signal Generation**<br>
-_<u><b>Jiazhen Lei</b></u>, Yuxin Sha, Tianze Cao, Sihan Wang, Bingbing Wang, Zeming Yang, Fengyuan Zhu, Xiaohua Tian_<br>
+_<u><b>Jiazhen Lei</b></u>, Yuxin Sha, Tianze Cao, Sihan Wang, Bingbing Wang, Fengyuan Zhu, Xiaohua Tian_<br>
 <span class='paper-asset'><a href="https://arxiv.org/abs/2606.01862">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2606.01862">PDF</a></span>
 
-- <span class='paper-prebadge'>In Submission</span> **DeepRadio: A Human–Agent Workspace for Physical Radio Development**<br>
-_<u><b>Jiazhen Lei</b></u>, Yuxin Sha, Sihan Wang, Wenhui Li, Jinyang Sun, Chengyu Lu, Xiaohua Tian_<br>
-<span class='paper-asset'><a href="/deepradio/"><i class="fas fa-globe"></i> Project Page</a></span> <!-- <span class='paper-asset'><a href="https://github.com/YOUR_REPO/DeepRadio"><i class="fab fa-github"></i> Code</a></span> -->
+- <span class='paper-prebadge'>arXiv</span> **DeepRadio: A Human–Agent Workspace for Physical Radio Development**<br>
+_<u><b>Jiazhen Lei*</b></u>, Yuxin Sha*, Sihan Wang, Wenhui Li, Jinyang Sun, Chengyu Lu, Xiaohua Tian_<br>
+<span class='paper-asset'><a href="https://arxiv.org/abs/2611.09418">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2611.09418">PDF</a></span> <span class='paper-asset'><a href="/deepradio/"><i class="fas fa-globe"></i> Project Page</a></span> <span class='paper-asset'><a href="https://github.com/Jiazhen-Lei/DeepRadio_release"><i class="fab fa-github"></i> Code</a></span>
 
-- <span class='paper-prebadge'>In Submission</span> **NarrativeSteward: Coordinating Delegation, Guidance, and Verification in AI-Assisted Interactive Narrative Authoring**<br>
+- <span class='paper-prebadge'>arXiv</span> **NarrativeSteward: Coordinating Delegation, Guidance, and Verification in AI-Assisted Interactive Narrative Authoring**<br>
 _Wenjin Wang, <u><b>Jiazhen Lei</b></u>, Nuwa Xi, Bruce Zhao, Xingxi Yin, Qi Liu, Yuliang Shen, Zixun Sun_<br>
   <span class='paper-asset'><a href="https://arxiv.org/abs/2609.39333">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2609.39333">PDF</a></span> <span class='paper-asset'><a href="https://github.com/Tencent/NarrativeSteward">Code</a></span>  
 
@@ -238,7 +238,7 @@ Beyond research, I am deeply passionate about the outdoors. To date, I have fini
 - 2026 Taizhou Marathon, _Half Marathon Category_, 2026.10.25 **(PB 1:59'48", Congratulations!)**
 - 2026 Bank of Jiangsu Hangzhou Xianghu Half Marathon, _Half Marathon Category_, 2026.10.18
 - 2026 HYROX Shanghai, _MEN OPEN_, 2026.5.16 **(PB 1:57'19", Congratulations!)**
-- 2026 SPARTAN Shanghai, _5KM Racing_，2026.4.25
+- 2026 SPARTAN Shanghai, _5KM Racing_, 2026.4.25
 - 2026 Bank of Jiangsu Nanjing Half Marathon, _Half Marathon Category_, 2026.3.15
 - 2025 Daishan Headlands Half Marathon, _Half Marathon Category_, 2025.3.30
 - 2025 Nantong Marathon, _Half Marathon Category_, 2025.3.23
