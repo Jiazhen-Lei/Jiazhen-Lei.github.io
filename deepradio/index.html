@@ -299,14 +299,13 @@
     </div>
   </section>
 
-  <!-- Teaser Figure -->
+  <!-- Teaser Video -->
   <section class="hero teaser">
     <div class="container is-max-desktop">
       <div class="figure-box has-text-centered">
-        <img src="./static/images/teaser.png" alt="DeepRadio Teaser" style="width: 100%; border-radius: 6px;">
-        <p class="figure-caption">
-          <strong>Figure 1:</strong> Contrasting opaque end-to-end automation with the <strong>DeepRadio</strong> workspace for physical radio development. <em>Top:</em> an agent builds and runs a radio system directly from a high-level request, leaving the user unable to trace an unsuccessful physical outcome. <em>Bottom:</em> DeepRadio keeps the development process inspectable through co-design, cross-layer verification, and human-controlled deployment.
-        </p>
+        <video id="teaser-video" autoplay controls muted loop playsinline preload="metadata" style="width: 100%; border-radius: 6px; display: block;">
+          <source src="./static/videos/teaser.mp4" type="video/mp4">
+        </video>
       </div>
     </div>
   </section>
@@ -337,6 +336,13 @@
       <div class="content has-text-justified" style="margin-bottom: 1.5rem;">
         <p>
           Building a physical SDR system requires coordinating decisions across protocol design, digital signal processing (DSP), flowgraph structure, runtime configuration, radio hardware, and the over-the-air environment. Rather than imposing a rigid black-box pipeline, DeepRadio organizes human–agent collaboration around the user's evolving intent, a shared versioned engineering state, and empirical evidence produced during execution.
+        </p>
+      </div>
+
+      <div class="figure-box has-text-centered" style="margin-bottom: 2rem;">
+        <img src="./static/images/teaser.png" alt="DeepRadio Teaser" style="width: 100%; border-radius: 6px;">
+        <p class="figure-caption">
+          <strong>Figure 1:</strong> Contrasting opaque end-to-end automation with the <strong>DeepRadio</strong> workspace for physical radio development. <em>Top:</em> an agent builds and runs a radio system directly from a high-level request, leaving the user unable to trace an unsuccessful physical outcome. <em>Bottom:</em> DeepRadio keeps the development process inspectable through co-design, cross-layer verification, and human-controlled deployment.
         </p>
       </div>
 
