@@ -235,6 +235,7 @@ _Wenjin Wang, <u><b>Jiazhen Lei</b></u>, Nuwa Xi, Bruce Zhao, Xingxi Yin, Qi Liu
 
 Beyond research, I am deeply passionate about the outdoors. To date, I have finished four half-marathons and completed five long-distance cycling rides of over 100km. I hope to keep this adventurous spirit alive as I continue to explore the world.
 
+- 2026 BIGK 2026 Suzhou 100 Urban Trail Race, _27 KM_, 2026.11.21
 - 2026 Taizhou Marathon, _Half Marathon Category_, 2026.10.25 **(PB 1:59'48", Congratulations!)**
 - 2026 Bank of Jiangsu Hangzhou Xianghu Half Marathon, _Half Marathon Category_, 2026.10.18
 - 2026 HYROX Shanghai, _MEN OPEN_, 2026.5.16 **(PB 1:57'19", Congratulations!)**
